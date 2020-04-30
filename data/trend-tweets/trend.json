@@ -3,20 +3,30 @@
         "name": "#uğultu",
         "query": "%23u%C4%9Fultu",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:43.112183939Z",
-        "tweets": null
+        "create_time": "2020-04-30T03:41:28.759266088Z",
+        "tweets": [
+            {
+                "actual_create_time": "2020-04-30T01:27:14Z",
+                "create_time": "2020-04-30T03:41:28.758622554Z",
+                "favorite_count": 1012,
+                "retweet_count": 46,
+                "tweet_id": 1255670012838379523,
+                "user_id": 1068844446136061953,
+                "url": "https://twitter.com/1068844446136061953/status/1255670012838379523"
+            }
+        ]
     },
     {
         "name": "#BuSahurdaDuam",
         "query": "%23BuSahurdaDuam",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:43.431446123Z",
+        "create_time": "2020-04-30T03:41:29.068944272Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T01:44:08Z",
                 "create_time": "2020-04-30T02:20:32.122131785Z",
-                "favorite_count": 1353,
-                "retweet_count": 65,
+                "favorite_count": 1364,
+                "retweet_count": 66,
                 "tweet_id": 1255674263648026625,
                 "user_id": 511866361,
                 "url": "https://twitter.com/511866361/status/1255674263648026625"
@@ -27,7 +37,7 @@
         "name": "#Persembe",
         "query": "%23Persembe",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:43.827912634Z",
+        "create_time": "2020-04-30T03:41:29.457164737Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-23T14:55:00Z",
@@ -52,20 +62,30 @@
     {
         "name": "#MaltepeCezaevindeNeleroluyor",
         "query": "%23MaltepeCezaevindeNeleroluyor",
-        "tweet_volume": 52967,
-        "create_time": "2020-04-30T03:35:44.590086001Z",
-        "tweets": null
+        "tweet_volume": 53015,
+        "create_time": "2020-04-30T03:41:30.191778317Z",
+        "tweets": [
+            {
+                "actual_create_time": "2020-04-30T01:12:41Z",
+                "create_time": "2020-04-30T03:41:30.191757859Z",
+                "favorite_count": 1002,
+                "retweet_count": 357,
+                "tweet_id": 1255666350573395968,
+                "user_id": 1244330231223201804,
+                "url": "https://twitter.com/1244330231223201804/status/1255666350573395968"
+            }
+        ]
     },
     {
         "name": "#atılımöğrenciyezulümetme",
         "query": "%23at%C4%B1l%C4%B1m%C3%B6%C4%9Frenciyezul%C3%BCmetme",
-        "tweet_volume": 12400,
-        "create_time": "2020-04-30T03:35:45.055919173Z",
+        "tweet_volume": 12430,
+        "create_time": "2020-04-30T03:41:30.634817957Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T17:49:25Z",
                 "create_time": "2020-04-30T01:28:56.610796336Z",
-                "favorite_count": 1327,
+                "favorite_count": 1330,
                 "retweet_count": 293,
                 "tweet_id": 1255554796398039041,
                 "user_id": 1000532240646987776,
@@ -76,14 +96,14 @@
     {
         "name": "Özgür Özel",
         "query": "%22%C3%96zg%C3%BCr+%C3%96zel%22",
-        "tweet_volume": 33515,
-        "create_time": "2020-04-30T03:35:45.857218911Z",
+        "tweet_volume": 33694,
+        "create_time": "2020-04-30T03:41:31.416801069Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T01:08:44Z",
                 "create_time": "2020-04-30T02:49:22.834061673Z",
-                "favorite_count": 1129,
-                "retweet_count": 265,
+                "favorite_count": 1142,
+                "retweet_count": 267,
                 "tweet_id": 1255665354187079680,
                 "user_id": 178454143,
                 "url": "https://twitter.com/178454143/status/1255665354187079680"
@@ -91,8 +111,8 @@
             {
                 "actual_create_time": "2020-04-30T00:17:05Z",
                 "create_time": "2020-04-30T02:03:20.606401379Z",
-                "favorite_count": 1316,
-                "retweet_count": 181,
+                "favorite_count": 1324,
+                "retweet_count": 184,
                 "tweet_id": 1255652357372862467,
                 "user_id": 1079368346,
                 "url": "https://twitter.com/1079368346/status/1255652357372862467"
@@ -100,8 +120,8 @@
             {
                 "actual_create_time": "2020-04-30T00:35:24Z",
                 "create_time": "2020-04-30T01:34:41.812153382Z",
-                "favorite_count": 1728,
-                "retweet_count": 317,
+                "favorite_count": 1739,
+                "retweet_count": 320,
                 "tweet_id": 1255656968343166977,
                 "user_id": 979366497226297345,
                 "url": "https://twitter.com/979366497226297345/status/1255656968343166977"
@@ -109,8 +129,8 @@
             {
                 "actual_create_time": "2020-04-29T22:29:10Z",
                 "create_time": "2020-04-30T01:34:41.812153382Z",
-                "favorite_count": 1686,
-                "retweet_count": 433,
+                "favorite_count": 1699,
+                "retweet_count": 435,
                 "tweet_id": 1255625197845204992,
                 "user_id": 296347397,
                 "url": "https://twitter.com/296347397/status/1255625197845204992"
@@ -118,8 +138,8 @@
             {
                 "actual_create_time": "2020-04-30T00:56:05Z",
                 "create_time": "2020-04-30T01:28:58.336093919Z",
-                "favorite_count": 2588,
-                "retweet_count": 480,
+                "favorite_count": 2605,
+                "retweet_count": 482,
                 "tweet_id": 1255662172476256257,
                 "user_id": 979366497226297345,
                 "url": "https://twitter.com/979366497226297345/status/1255662172476256257"
@@ -127,8 +147,8 @@
             {
                 "actual_create_time": "2020-04-29T23:57:15Z",
                 "create_time": "2020-04-30T01:28:58.336093919Z",
-                "favorite_count": 2302,
-                "retweet_count": 593,
+                "favorite_count": 2323,
+                "retweet_count": 596,
                 "tweet_id": 1255647366885117952,
                 "user_id": 1211050169870868480,
                 "url": "https://twitter.com/1211050169870868480/status/1255647366885117952"
@@ -136,8 +156,8 @@
             {
                 "actual_create_time": "2020-04-29T20:29:57Z",
                 "create_time": "2020-04-30T01:28:58.336093919Z",
-                "favorite_count": 1251,
-                "retweet_count": 293,
+                "favorite_count": 1260,
+                "retweet_count": 294,
                 "tweet_id": 1255595198840745986,
                 "user_id": 3334738438,
                 "url": "https://twitter.com/3334738438/status/1255595198840745986"
@@ -145,8 +165,8 @@
             {
                 "actual_create_time": "2020-04-29T23:53:25Z",
                 "create_time": "2020-04-30T00:40:22.469663504Z",
-                "favorite_count": 3796,
-                "retweet_count": 986,
+                "favorite_count": 3821,
+                "retweet_count": 990,
                 "tweet_id": 1255646399380758528,
                 "user_id": 1211050169870868480,
                 "url": "https://twitter.com/1211050169870868480/status/1255646399380758528"
@@ -163,7 +183,7 @@
             {
                 "actual_create_time": "2020-04-29T19:03:13Z",
                 "create_time": "2020-04-29T23:44:03.506330817Z",
-                "favorite_count": 1647,
+                "favorite_count": 1652,
                 "retweet_count": 470,
                 "tweet_id": 1255573369371660289,
                 "user_id": 711663551035908096,
@@ -208,8 +228,8 @@
             {
                 "actual_create_time": "2020-04-29T21:04:17Z",
                 "create_time": "2020-04-29T22:14:24.816221237Z",
-                "favorite_count": 2701,
-                "retweet_count": 472,
+                "favorite_count": 2711,
+                "retweet_count": 475,
                 "tweet_id": 1255603838876352515,
                 "user_id": 990621226002518023,
                 "url": "https://twitter.com/990621226002518023/status/1255603838876352515"
@@ -217,7 +237,7 @@
             {
                 "actual_create_time": "2020-04-29T19:10:08Z",
                 "create_time": "2020-04-29T21:34:23.007928522Z",
-                "favorite_count": 1928,
+                "favorite_count": 1933,
                 "retweet_count": 347,
                 "tweet_id": 1255575110758674432,
                 "user_id": 255515879,
@@ -454,12 +474,12 @@
         "name": "Gökhan Gönül",
         "query": "%22G%C3%B6khan+G%C3%B6n%C3%BCl%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:46.092476013Z",
+        "create_time": "2020-04-30T03:41:31.657629311Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T21:01:35Z",
                 "create_time": "2020-04-30T01:51:53.410287386Z",
-                "favorite_count": 1152,
+                "favorite_count": 1153,
                 "retweet_count": 57,
                 "tweet_id": 1255603156815355912,
                 "user_id": 902574242990055424,
@@ -468,7 +488,7 @@
             {
                 "actual_create_time": "2020-04-30T00:12:15Z",
                 "create_time": "2020-04-30T01:29:00.150347141Z",
-                "favorite_count": 1462,
+                "favorite_count": 1468,
                 "retweet_count": 18,
                 "tweet_id": 1255651140705964033,
                 "user_id": 70744910,
@@ -477,7 +497,7 @@
             {
                 "actual_create_time": "2020-04-29T23:53:06Z",
                 "create_time": "2020-04-30T01:29:00.150347141Z",
-                "favorite_count": 3496,
+                "favorite_count": 3506,
                 "retweet_count": 70,
                 "tweet_id": 1255646320880205825,
                 "user_id": 70744910,
@@ -489,47 +509,47 @@
         "name": "gece gece",
         "query": "%22gece+gece%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:46.900059587Z",
-        "tweets": null
-    },
-    {
-        "name": "Lise 4",
-        "query": "%22Lise+4%22",
-        "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:47.116135976Z",
+        "create_time": "2020-04-30T03:41:32.532149179Z",
         "tweets": null
     },
     {
         "name": "Düven",
         "query": "D%C3%BCven",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:47.268723053Z",
+        "create_time": "2020-04-30T03:41:32.682152487Z",
+        "tweets": null
+    },
+    {
+        "name": "Lise 4",
+        "query": "%22Lise+4%22",
+        "tweet_volume": 0,
+        "create_time": "2020-04-30T03:41:32.896204109Z",
         "tweets": null
     },
     {
         "name": "Yusuf Güney",
         "query": "%22Yusuf+G%C3%BCney%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:47.401034923Z",
+        "create_time": "2020-04-30T03:41:33.035965823Z",
         "tweets": null
     },
     {
         "name": "Zuma",
         "query": "Zuma",
-        "tweet_volume": 15937,
-        "create_time": "2020-04-30T03:35:47.547725761Z",
+        "tweet_volume": 16008,
+        "create_time": "2020-04-30T03:41:33.212940534Z",
         "tweets": null
     },
     {
         "name": "geçmeyin",
         "query": "ge%C3%A7meyin",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:47.783371107Z",
+        "create_time": "2020-04-30T03:41:33.453530783Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T01:47:47Z",
                 "create_time": "2020-04-30T02:26:23.257876081Z",
-                "favorite_count": 1909,
+                "favorite_count": 1924,
                 "retweet_count": 41,
                 "tweet_id": 1255675184364863488,
                 "user_id": 846385874564796416,
@@ -556,7 +576,7 @@
             {
                 "actual_create_time": "2020-04-24T10:35:47Z",
                 "create_time": "2020-04-30T02:26:23.257876081Z",
-                "favorite_count": 18504,
+                "favorite_count": 18495,
                 "retweet_count": 178,
                 "tweet_id": 1253633731480428545,
                 "user_id": 4872426257,
@@ -595,13 +615,13 @@
         "name": "Kurra Hafız",
         "query": "%22Kurra+Haf%C4%B1z%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:48.19264316Z",
+        "create_time": "2020-04-30T03:41:33.851089124Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T19:13:37Z",
                 "create_time": "2020-04-30T01:34:44.610941915Z",
-                "favorite_count": 30647,
-                "retweet_count": 4695,
+                "favorite_count": 30699,
+                "retweet_count": 4705,
                 "tweet_id": 1255575988148285441,
                 "user_id": 438741755,
                 "url": "https://twitter.com/438741755/status/1255575988148285441"
@@ -609,8 +629,8 @@
             {
                 "actual_create_time": "2020-04-29T18:32:00Z",
                 "create_time": "2020-04-30T01:34:44.610941915Z",
-                "favorite_count": 3516,
-                "retweet_count": 497,
+                "favorite_count": 3522,
+                "retweet_count": 498,
                 "tweet_id": 1255565512089784322,
                 "user_id": 724144087,
                 "url": "https://twitter.com/724144087/status/1255565512089784322"
@@ -621,7 +641,7 @@
         "name": "Fatih Sultan Süleyman",
         "query": "%22Fatih+Sultan+S%C3%BCleyman%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:48.494963782Z",
+        "create_time": "2020-04-30T03:41:34.133269158Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T15:53:44Z",
@@ -635,8 +655,8 @@
             {
                 "actual_create_time": "2020-04-29T14:47:25Z",
                 "create_time": "2020-04-30T02:03:25.407398103Z",
-                "favorite_count": 1109,
-                "retweet_count": 199,
+                "favorite_count": 1112,
+                "retweet_count": 201,
                 "tweet_id": 1255508997920219138,
                 "user_id": 774545336471851008,
                 "url": "https://twitter.com/774545336471851008/status/1255508997920219138"
@@ -662,7 +682,7 @@
             {
                 "actual_create_time": "2020-04-29T11:57:21Z",
                 "create_time": "2020-04-29T15:49:51.832599287Z",
-                "favorite_count": 1659,
+                "favorite_count": 1660,
                 "retweet_count": 335,
                 "tweet_id": 1255466195408560130,
                 "user_id": 60935113,
@@ -680,8 +700,8 @@
             {
                 "actual_create_time": "2020-04-29T08:14:11Z",
                 "create_time": "2020-04-29T15:38:32.999130812Z",
-                "favorite_count": 2241,
-                "retweet_count": 371,
+                "favorite_count": 2243,
+                "retweet_count": 372,
                 "tweet_id": 1255410035020247041,
                 "user_id": 1241466776959029249,
                 "url": "https://twitter.com/1241466776959029249/status/1255410035020247041"
@@ -689,7 +709,7 @@
             {
                 "actual_create_time": "2020-04-29T12:46:43Z",
                 "create_time": "2020-04-29T14:36:19.559912825Z",
-                "favorite_count": 6391,
+                "favorite_count": 6397,
                 "retweet_count": 907,
                 "tweet_id": 1255478620635750400,
                 "user_id": 757956234423234560,
@@ -718,13 +738,13 @@
     {
         "name": "Demet Akalın",
         "query": "%22Demet+Akal%C4%B1n%22",
-        "tweet_volume": 11638,
-        "create_time": "2020-04-30T03:35:49.017596822Z",
+        "tweet_volume": 11666,
+        "create_time": "2020-04-30T03:41:34.728498166Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T22:00:01Z",
                 "create_time": "2020-04-30T03:18:29.24634174Z",
-                "favorite_count": 1012,
+                "favorite_count": 1017,
                 "retweet_count": 17,
                 "tweet_id": 1255617864922521605,
                 "user_id": 1249453806632316930,
@@ -733,8 +753,8 @@
             {
                 "actual_create_time": "2020-04-29T19:57:22Z",
                 "create_time": "2020-04-30T01:34:43.200046384Z",
-                "favorite_count": 1350,
-                "retweet_count": 49,
+                "favorite_count": 1354,
+                "retweet_count": 50,
                 "tweet_id": 1255586997885952000,
                 "user_id": 2940095590,
                 "url": "https://twitter.com/2940095590/status/1255586997885952000"
@@ -742,7 +762,7 @@
             {
                 "actual_create_time": "2020-04-29T21:35:44Z",
                 "create_time": "2020-04-30T00:34:42.220562737Z",
-                "favorite_count": 1304,
+                "favorite_count": 1308,
                 "retweet_count": 170,
                 "tweet_id": 1255611750633873410,
                 "user_id": 1241827817379303427,
@@ -751,8 +771,8 @@
             {
                 "actual_create_time": "2020-04-29T21:04:45Z",
                 "create_time": "2020-04-30T00:17:46.688494524Z",
-                "favorite_count": 1421,
-                "retweet_count": 245,
+                "favorite_count": 1429,
+                "retweet_count": 246,
                 "tweet_id": 1255603955343724545,
                 "user_id": 2627782641,
                 "url": "https://twitter.com/2627782641/status/1255603955343724545"
@@ -760,7 +780,7 @@
             {
                 "actual_create_time": "2020-04-29T19:01:09Z",
                 "create_time": "2020-04-30T00:00:53.360151482Z",
-                "favorite_count": 1067,
+                "favorite_count": 1069,
                 "retweet_count": 88,
                 "tweet_id": 1255572851974967298,
                 "user_id": 759390350,
@@ -769,7 +789,7 @@
             {
                 "actual_create_time": "2020-04-29T21:28:08Z",
                 "create_time": "2020-04-29T22:59:19.523628318Z",
-                "favorite_count": 1919,
+                "favorite_count": 1924,
                 "retweet_count": 247,
                 "tweet_id": 1255609838652055554,
                 "user_id": 2356055995,
@@ -778,7 +798,7 @@
             {
                 "actual_create_time": "2020-04-29T20:34:16Z",
                 "create_time": "2020-04-29T22:59:19.523628318Z",
-                "favorite_count": 1871,
+                "favorite_count": 1876,
                 "retweet_count": 271,
                 "tweet_id": 1255596283429085186,
                 "user_id": 387101979,
@@ -787,7 +807,7 @@
             {
                 "actual_create_time": "2020-04-29T21:38:02Z",
                 "create_time": "2020-04-29T22:42:29.651641612Z",
-                "favorite_count": 2030,
+                "favorite_count": 2032,
                 "retweet_count": 104,
                 "tweet_id": 1255612332048334849,
                 "user_id": 296150557,
@@ -796,7 +816,7 @@
             {
                 "actual_create_time": "2020-04-29T19:44:26Z",
                 "create_time": "2020-04-29T22:25:39.948925858Z",
-                "favorite_count": 2543,
+                "favorite_count": 2548,
                 "retweet_count": 169,
                 "tweet_id": 1255583742179016706,
                 "user_id": 400384586,
@@ -814,7 +834,7 @@
             {
                 "actual_create_time": "2020-04-29T19:32:44Z",
                 "create_time": "2020-04-29T21:45:52.615680078Z",
-                "favorite_count": 2924,
+                "favorite_count": 2928,
                 "retweet_count": 185,
                 "tweet_id": 1255580799862222852,
                 "user_id": 261158435,
@@ -823,7 +843,7 @@
             {
                 "actual_create_time": "2020-04-29T16:43:59Z",
                 "create_time": "2020-04-29T21:40:07.260173095Z",
-                "favorite_count": 2352,
+                "favorite_count": 2354,
                 "retweet_count": 80,
                 "tweet_id": 1255538328876781575,
                 "user_id": 1249097006112440320,
@@ -832,8 +852,8 @@
             {
                 "actual_create_time": "2020-04-29T20:18:43Z",
                 "create_time": "2020-04-29T20:59:20.858369018Z",
-                "favorite_count": 3833,
-                "retweet_count": 220,
+                "favorite_count": 3839,
+                "retweet_count": 221,
                 "tweet_id": 1255592370806063105,
                 "user_id": 3103049069,
                 "url": "https://twitter.com/3103049069/status/1255592370806063105"
@@ -850,8 +870,8 @@
             {
                 "actual_create_time": "2020-04-29T20:11:44Z",
                 "create_time": "2020-04-29T20:35:49.402668964Z",
-                "favorite_count": 9462,
-                "retweet_count": 694,
+                "favorite_count": 9474,
+                "retweet_count": 695,
                 "tweet_id": 1255590614026027008,
                 "user_id": 376071851,
                 "url": "https://twitter.com/376071851/status/1255590614026027008"
@@ -859,8 +879,8 @@
             {
                 "actual_create_time": "2020-04-29T19:32:47Z",
                 "create_time": "2020-04-29T20:29:52.801701837Z",
-                "favorite_count": 6383,
-                "retweet_count": 693,
+                "favorite_count": 6392,
+                "retweet_count": 694,
                 "tweet_id": 1255580811602034691,
                 "user_id": 2627782641,
                 "url": "https://twitter.com/2627782641/status/1255580811602034691"
@@ -868,7 +888,7 @@
             {
                 "actual_create_time": "2020-04-29T19:07:19Z",
                 "create_time": "2020-04-29T20:29:52.801701837Z",
-                "favorite_count": 8387,
+                "favorite_count": 8390,
                 "retweet_count": 549,
                 "tweet_id": 1255574401518632961,
                 "user_id": 1640879869,
@@ -877,8 +897,8 @@
             {
                 "actual_create_time": "2020-04-29T17:54:56Z",
                 "create_time": "2020-04-29T20:29:52.801701837Z",
-                "favorite_count": 3747,
-                "retweet_count": 514,
+                "favorite_count": 3753,
+                "retweet_count": 517,
                 "tweet_id": 1255556185505378309,
                 "user_id": 2223887024,
                 "url": "https://twitter.com/2223887024/status/1255556185505378309"
@@ -886,7 +906,7 @@
             {
                 "actual_create_time": "2020-04-29T17:32:36Z",
                 "create_time": "2020-04-29T20:29:52.801701837Z",
-                "favorite_count": 9000,
+                "favorite_count": 9002,
                 "retweet_count": 481,
                 "tweet_id": 1255550565112840193,
                 "user_id": 4919646827,
@@ -895,8 +915,8 @@
             {
                 "actual_create_time": "2020-04-29T16:29:18Z",
                 "create_time": "2020-04-29T20:29:52.801701837Z",
-                "favorite_count": 1921,
-                "retweet_count": 126,
+                "favorite_count": 1925,
+                "retweet_count": 127,
                 "tweet_id": 1255534634139607048,
                 "user_id": 60935113,
                 "url": "https://twitter.com/60935113/status/1255534634139607048"
@@ -904,7 +924,7 @@
             {
                 "actual_create_time": "2020-04-29T15:44:09Z",
                 "create_time": "2020-04-29T20:29:52.801701837Z",
-                "favorite_count": 5753,
+                "favorite_count": 5758,
                 "retweet_count": 1324,
                 "tweet_id": 1255523271350640642,
                 "user_id": 81683900,
@@ -913,7 +933,7 @@
             {
                 "actual_create_time": "2020-04-29T15:17:49Z",
                 "create_time": "2020-04-29T20:29:52.801701837Z",
-                "favorite_count": 3904,
+                "favorite_count": 3905,
                 "retweet_count": 197,
                 "tweet_id": 1255516646996918272,
                 "user_id": 338549617,
@@ -922,7 +942,7 @@
             {
                 "actual_create_time": "2020-04-27T22:00:01Z",
                 "create_time": "2020-04-29T20:29:52.801701837Z",
-                "favorite_count": 6607,
+                "favorite_count": 6608,
                 "retweet_count": 103,
                 "tweet_id": 1254893087886843905,
                 "user_id": 1249453806632316930,
@@ -985,7 +1005,7 @@
             {
                 "actual_create_time": "2020-04-23T20:38:43Z",
                 "create_time": "2020-04-29T20:29:52.801701837Z",
-                "favorite_count": 2440,
+                "favorite_count": 2441,
                 "retweet_count": 81,
                 "tweet_id": 1253423076898779137,
                 "user_id": 367782947,
@@ -1012,7 +1032,7 @@
             {
                 "actual_create_time": "2020-04-22T20:48:31Z",
                 "create_time": "2020-04-29T20:29:52.801701837Z",
-                "favorite_count": 1276,
+                "favorite_count": 1277,
                 "retweet_count": 204,
                 "tweet_id": 1253063154789163011,
                 "user_id": 1250422708464046081,
@@ -1033,27 +1053,27 @@
         "name": "#pomem",
         "query": "%23pomem",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:49.173075649Z",
+        "create_time": "2020-04-30T03:41:34.881730076Z",
         "tweets": null
     },
     {
         "name": "#PisYedili",
         "query": "%23PisYedili",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:49.466015152Z",
+        "create_time": "2020-04-30T03:41:35.179265821Z",
         "tweets": null
     },
     {
         "name": "#korkunmeralabladan",
         "query": "%23korkunmeralabladan",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:49.779745461Z",
+        "create_time": "2020-04-30T03:41:35.51713468Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T21:43:24Z",
                 "create_time": "2020-04-30T01:29:02.948206459Z",
-                "favorite_count": 1202,
-                "retweet_count": 169,
+                "favorite_count": 1206,
+                "retweet_count": 170,
                 "tweet_id": 1255613682937221120,
                 "user_id": 388313285,
                 "url": "https://twitter.com/388313285/status/1255613682937221120"
@@ -1064,12 +1084,12 @@
         "name": "#KamerCanımızdır",
         "query": "%23KamerCan%C4%B1m%C4%B1zd%C4%B1r",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:50.011665383Z",
+        "create_time": "2020-04-30T03:41:35.729602096Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T18:32:24Z",
                 "create_time": "2020-04-29T23:55:25.178751714Z",
-                "favorite_count": 1549,
+                "favorite_count": 1551,
                 "retweet_count": 166,
                 "tweet_id": 1255565616016171010,
                 "user_id": 1246303944,
@@ -1080,13 +1100,13 @@
     {
         "name": "#AssassinsCreedValhalla",
         "query": "%23AssassinsCreedValhalla",
-        "tweet_volume": 17396,
-        "create_time": "2020-04-30T03:35:50.198401772Z",
+        "tweet_volume": 17438,
+        "create_time": "2020-04-30T03:41:35.967933785Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T21:37:26Z",
                 "create_time": "2020-04-30T03:24:16.082136922Z",
-                "favorite_count": 1001,
+                "favorite_count": 1005,
                 "retweet_count": 42,
                 "tweet_id": 1255612181527384064,
                 "user_id": 1105928978618044416,
@@ -1095,7 +1115,7 @@
             {
                 "actual_create_time": "2020-04-29T20:05:57Z",
                 "create_time": "2020-04-29T22:03:08.650001315Z",
-                "favorite_count": 2169,
+                "favorite_count": 2172,
                 "retweet_count": 152,
                 "tweet_id": 1255589158678138881,
                 "user_id": 1247790537081380870,
@@ -1106,14 +1126,14 @@
     {
         "name": "#AsılMeseleİstSözleşmesi",
         "query": "%23As%C4%B1lMesele%C4%B0stS%C3%B6zle%C5%9Fmesi",
-        "tweet_volume": 12013,
-        "create_time": "2020-04-30T03:35:50.736028531Z",
+        "tweet_volume": 12062,
+        "create_time": "2020-04-30T03:41:36.490862206Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T22:25:51Z",
                 "create_time": "2020-04-29T22:36:55.441977906Z",
-                "favorite_count": 9941,
-                "retweet_count": 2592,
+                "favorite_count": 9965,
+                "retweet_count": 2597,
                 "tweet_id": 1255624363098935297,
                 "user_id": 1102199180,
                 "url": "https://twitter.com/1102199180/status/1255624363098935297"
@@ -1121,8 +1141,8 @@
             {
                 "actual_create_time": "2020-04-29T20:56:55Z",
                 "create_time": "2020-04-29T21:28:39.828714599Z",
-                "favorite_count": 4946,
-                "retweet_count": 1602,
+                "favorite_count": 4952,
+                "retweet_count": 1603,
                 "tweet_id": 1255601982942871558,
                 "user_id": 764489302663434241,
                 "url": "https://twitter.com/764489302663434241/status/1255601982942871558"
@@ -1130,7 +1150,7 @@
             {
                 "actual_create_time": "2020-04-29T19:43:16Z",
                 "create_time": "2020-04-29T20:18:10.499398985Z",
-                "favorite_count": 3474,
+                "favorite_count": 3478,
                 "retweet_count": 1036,
                 "tweet_id": 1255583448334508035,
                 "user_id": 173315794,
@@ -1142,42 +1162,42 @@
         "name": "#yaklaşıyor",
         "query": "%23yakla%C5%9F%C4%B1yor",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:50.959374235Z",
-        "tweets": null
-    },
-    {
-        "name": "#gecegece",
-        "query": "%23gecegece",
-        "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:51.117850757Z",
+        "create_time": "2020-04-30T03:41:36.723085864Z",
         "tweets": null
     },
     {
         "name": "#sabır",
         "query": "%23sab%C4%B1r",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:51.328538948Z",
+        "create_time": "2020-04-30T03:41:36.891254234Z",
         "tweets": null
     },
     {
-        "name": "#1haziran",
-        "query": "%231haziran",
+        "name": "#gecegece",
+        "query": "%23gecegece",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:51.507257335Z",
+        "create_time": "2020-04-30T03:41:37.060911992Z",
         "tweets": null
     },
     {
         "name": "#ozgurozel",
         "query": "%23ozgurozel",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:51.681984554Z",
+        "create_time": "2020-04-30T03:41:37.224989202Z",
+        "tweets": null
+    },
+    {
+        "name": "#1haziran",
+        "query": "%231haziran",
+        "tweet_volume": 0,
+        "create_time": "2020-04-30T03:41:37.395907998Z",
         "tweets": null
     },
     {
         "name": "#demetakalin",
         "query": "%23demetakalin",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:51.875982031Z",
+        "create_time": "2020-04-30T03:41:37.600466216Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-22T08:54:29Z",
@@ -1194,13 +1214,13 @@
         "name": "#YılmazGüneş",
         "query": "%23Y%C4%B1lmazG%C3%BCne%C5%9F",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:52.168622176Z",
+        "create_time": "2020-04-30T03:41:37.793334088Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T18:21:48Z",
                 "create_time": "2020-04-29T22:31:29.744088756Z",
-                "favorite_count": 12005,
-                "retweet_count": 772,
+                "favorite_count": 12071,
+                "retweet_count": 774,
                 "tweet_id": 1255562946140389376,
                 "user_id": 1354664310,
                 "url": "https://twitter.com/1354664310/status/1255562946140389376"
@@ -1208,23 +1228,16 @@
         ]
     },
     {
-        "name": "#sahurlar",
-        "query": "%23sahurlar",
-        "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:52.387476406Z",
-        "tweets": null
-    },
-    {
         "name": "#RezilsinCHP",
         "query": "%23RezilsinCHP",
-        "tweet_volume": 99040,
-        "create_time": "2020-04-30T03:35:53.459913295Z",
+        "tweet_volume": 99277,
+        "create_time": "2020-04-30T03:41:38.851456629Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T01:08:44Z",
                 "create_time": "2020-04-30T02:49:31.486054433Z",
-                "favorite_count": 1129,
-                "retweet_count": 265,
+                "favorite_count": 1142,
+                "retweet_count": 267,
                 "tweet_id": 1255665354187079680,
                 "user_id": 178454143,
                 "url": "https://twitter.com/178454143/status/1255665354187079680"
@@ -1232,8 +1245,8 @@
             {
                 "actual_create_time": "2020-04-30T00:35:24Z",
                 "create_time": "2020-04-30T02:49:31.486054433Z",
-                "favorite_count": 1728,
-                "retweet_count": 317,
+                "favorite_count": 1739,
+                "retweet_count": 320,
                 "tweet_id": 1255656968343166977,
                 "user_id": 979366497226297345,
                 "url": "https://twitter.com/979366497226297345/status/1255656968343166977"
@@ -1241,7 +1254,7 @@
             {
                 "actual_create_time": "2020-04-30T00:19:47Z",
                 "create_time": "2020-04-30T02:49:31.486054433Z",
-                "favorite_count": 2798,
+                "favorite_count": 2815,
                 "retweet_count": 434,
                 "tweet_id": 1255653037705699328,
                 "user_id": 1211050169870868480,
@@ -1250,8 +1263,8 @@
             {
                 "actual_create_time": "2020-04-30T00:09:06Z",
                 "create_time": "2020-04-30T02:49:31.486054433Z",
-                "favorite_count": 1406,
-                "retweet_count": 299,
+                "favorite_count": 1415,
+                "retweet_count": 301,
                 "tweet_id": 1255650346019573761,
                 "user_id": 1211050169870868480,
                 "url": "https://twitter.com/1211050169870868480/status/1255650346019573761"
@@ -1259,8 +1272,8 @@
             {
                 "actual_create_time": "2020-04-29T23:57:15Z",
                 "create_time": "2020-04-30T02:49:31.486054433Z",
-                "favorite_count": 2303,
-                "retweet_count": 593,
+                "favorite_count": 2325,
+                "retweet_count": 596,
                 "tweet_id": 1255647366885117952,
                 "user_id": 1211050169870868480,
                 "url": "https://twitter.com/1211050169870868480/status/1255647366885117952"
@@ -1268,8 +1281,8 @@
             {
                 "actual_create_time": "2020-04-29T23:53:25Z",
                 "create_time": "2020-04-30T02:49:31.486054433Z",
-                "favorite_count": 3796,
-                "retweet_count": 986,
+                "favorite_count": 3822,
+                "retweet_count": 990,
                 "tweet_id": 1255646399380758528,
                 "user_id": 1211050169870868480,
                 "url": "https://twitter.com/1211050169870868480/status/1255646399380758528"
@@ -1277,8 +1290,8 @@
             {
                 "actual_create_time": "2020-04-29T21:46:58Z",
                 "create_time": "2020-04-30T02:49:31.486054433Z",
-                "favorite_count": 1135,
-                "retweet_count": 237,
+                "favorite_count": 1128,
+                "retweet_count": 236,
                 "tweet_id": 1255614580874776577,
                 "user_id": 1040314350,
                 "url": "https://twitter.com/1040314350/status/1255614580874776577"
@@ -1295,7 +1308,7 @@
             {
                 "actual_create_time": "2020-04-29T20:40:57Z",
                 "create_time": "2020-04-30T02:49:31.486054433Z",
-                "favorite_count": 1119,
+                "favorite_count": 1120,
                 "retweet_count": 278,
                 "tweet_id": 1255597964967530496,
                 "user_id": 3334738438,
@@ -1304,8 +1317,8 @@
             {
                 "actual_create_time": "2020-04-29T20:29:57Z",
                 "create_time": "2020-04-30T02:49:31.486054433Z",
-                "favorite_count": 1251,
-                "retweet_count": 293,
+                "favorite_count": 1260,
+                "retweet_count": 294,
                 "tweet_id": 1255595198840745986,
                 "user_id": 3334738438,
                 "url": "https://twitter.com/3334738438/status/1255595198840745986"
@@ -1313,7 +1326,7 @@
             {
                 "actual_create_time": "2020-04-29T19:07:08Z",
                 "create_time": "2020-04-30T02:49:31.486054433Z",
-                "favorite_count": 1107,
+                "favorite_count": 1110,
                 "retweet_count": 195,
                 "tweet_id": 1255574355117051904,
                 "user_id": 1000469575,
@@ -1322,8 +1335,8 @@
             {
                 "actual_create_time": "2020-04-29T23:37:12Z",
                 "create_time": "2020-04-30T00:00:49.503224846Z",
-                "favorite_count": 4107,
-                "retweet_count": 2079,
+                "favorite_count": 4111,
+                "retweet_count": 2081,
                 "tweet_id": 1255642318784409605,
                 "user_id": 211479204,
                 "url": "https://twitter.com/211479204/status/1255642318784409605"
@@ -1331,8 +1344,8 @@
             {
                 "actual_create_time": "2020-04-29T22:01:47Z",
                 "create_time": "2020-04-30T00:00:49.503224846Z",
-                "favorite_count": 2255,
-                "retweet_count": 524,
+                "favorite_count": 2261,
+                "retweet_count": 525,
                 "tweet_id": 1255618309069864969,
                 "user_id": 261787234,
                 "url": "https://twitter.com/261787234/status/1255618309069864969"
@@ -1340,8 +1353,8 @@
             {
                 "actual_create_time": "2020-04-29T21:55:39Z",
                 "create_time": "2020-04-29T23:43:58.969588559Z",
-                "favorite_count": 2384,
-                "retweet_count": 517,
+                "favorite_count": 2390,
+                "retweet_count": 519,
                 "tweet_id": 1255616765687730178,
                 "user_id": 307803306,
                 "url": "https://twitter.com/307803306/status/1255616765687730178"
@@ -1349,7 +1362,7 @@
             {
                 "actual_create_time": "2020-04-29T19:03:13Z",
                 "create_time": "2020-04-29T23:43:58.969588559Z",
-                "favorite_count": 1647,
+                "favorite_count": 1652,
                 "retweet_count": 470,
                 "tweet_id": 1255573369371660289,
                 "user_id": 711663551035908096,
@@ -1358,8 +1371,8 @@
             {
                 "actual_create_time": "2020-04-29T22:48:23Z",
                 "create_time": "2020-04-29T23:21:37.369114425Z",
-                "favorite_count": 3405,
-                "retweet_count": 583,
+                "favorite_count": 3414,
+                "retweet_count": 584,
                 "tweet_id": 1255630036247482375,
                 "user_id": 1211050169870868480,
                 "url": "https://twitter.com/1211050169870868480/status/1255630036247482375"
@@ -1367,8 +1380,8 @@
             {
                 "actual_create_time": "2020-04-29T22:31:09Z",
                 "create_time": "2020-04-29T23:16:02.604628064Z",
-                "favorite_count": 5711,
-                "retweet_count": 1176,
+                "favorite_count": 5748,
+                "retweet_count": 1183,
                 "tweet_id": 1255625700079546376,
                 "user_id": 2386809223,
                 "url": "https://twitter.com/2386809223/status/1255625700079546376"
@@ -1376,8 +1389,8 @@
             {
                 "actual_create_time": "2020-04-29T19:40:37Z",
                 "create_time": "2020-04-29T22:31:13.481978479Z",
-                "favorite_count": 1674,
-                "retweet_count": 472,
+                "favorite_count": 1676,
+                "retweet_count": 473,
                 "tweet_id": 1255582780941107200,
                 "user_id": 1079368346,
                 "url": "https://twitter.com/1079368346/status/1255582780941107200"
@@ -1403,7 +1416,7 @@
             {
                 "actual_create_time": "2020-04-29T19:09:36Z",
                 "create_time": "2020-04-29T21:05:06.900460839Z",
-                "favorite_count": 1898,
+                "favorite_count": 1899,
                 "retweet_count": 369,
                 "tweet_id": 1255574976121524224,
                 "user_id": 1211050169870868480,
@@ -1421,8 +1434,8 @@
             {
                 "actual_create_time": "2020-04-29T19:04:12Z",
                 "create_time": "2020-04-29T20:47:32.233758486Z",
-                "favorite_count": 2317,
-                "retweet_count": 324,
+                "favorite_count": 2321,
+                "retweet_count": 325,
                 "tweet_id": 1255573616168701953,
                 "user_id": 2535040898,
                 "url": "https://twitter.com/2535040898/status/1255573616168701953"
@@ -1448,8 +1461,8 @@
             {
                 "actual_create_time": "2020-04-29T19:14:58Z",
                 "create_time": "2020-04-29T19:48:23.428345921Z",
-                "favorite_count": 8222,
-                "retweet_count": 2005,
+                "favorite_count": 8238,
+                "retweet_count": 2007,
                 "tweet_id": 1255576326112755712,
                 "user_id": 252280359,
                 "url": "https://twitter.com/252280359/status/1255576326112755712"
@@ -1685,7 +1698,7 @@
         "name": "#yks2020",
         "query": "%23yks2020",
         "tweet_volume": 68307,
-        "create_time": "2020-04-30T03:35:53.893151045Z",
+        "create_time": "2020-04-30T03:41:39.278208731Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T14:54:54Z",
@@ -1780,7 +1793,7 @@
             {
                 "actual_create_time": "2020-04-29T08:30:04Z",
                 "create_time": "2020-04-30T01:29:11.892479801Z",
-                "favorite_count": 7295,
+                "favorite_count": 7296,
                 "retweet_count": 315,
                 "tweet_id": 1255414032884006913,
                 "user_id": 281445322,
@@ -1789,7 +1802,7 @@
             {
                 "actual_create_time": "2020-04-29T08:27:10Z",
                 "create_time": "2020-04-30T01:29:11.892479801Z",
-                "favorite_count": 1907,
+                "favorite_count": 1908,
                 "retweet_count": 70,
                 "tweet_id": 1255413303695880202,
                 "user_id": 281445322,
@@ -1825,7 +1838,7 @@
             {
                 "actual_create_time": "2020-04-29T07:14:10Z",
                 "create_time": "2020-04-30T01:29:11.892479801Z",
-                "favorite_count": 1168,
+                "favorite_count": 1169,
                 "retweet_count": 66,
                 "tweet_id": 1255394932245880834,
                 "user_id": 1239805319045353473,
@@ -1834,7 +1847,7 @@
             {
                 "actual_create_time": "2020-04-29T07:13:28Z",
                 "create_time": "2020-04-30T01:29:11.892479801Z",
-                "favorite_count": 4945,
+                "favorite_count": 4946,
                 "retweet_count": 653,
                 "tweet_id": 1255394755212718080,
                 "user_id": 1152985732425887744,
@@ -1852,7 +1865,7 @@
             {
                 "actual_create_time": "2020-04-29T05:14:51Z",
                 "create_time": "2020-04-30T01:29:11.892479801Z",
-                "favorite_count": 6597,
+                "favorite_count": 6598,
                 "retweet_count": 302,
                 "tweet_id": 1255364904896409602,
                 "user_id": 1228794319370440705,
@@ -1960,7 +1973,7 @@
             {
                 "actual_create_time": "2020-04-29T00:10:05Z",
                 "create_time": "2020-04-30T01:29:11.892479801Z",
-                "favorite_count": 1124,
+                "favorite_count": 1125,
                 "retweet_count": 68,
                 "tweet_id": 1255288206490316802,
                 "user_id": 970769731623022592,
@@ -2392,7 +2405,7 @@
             {
                 "actual_create_time": "2020-04-28T22:37:58Z",
                 "create_time": "2020-04-28T23:31:48.847084183Z",
-                "favorite_count": 2598,
+                "favorite_count": 2599,
                 "retweet_count": 338,
                 "tweet_id": 1255265023733219328,
                 "user_id": 797537268105932800,
@@ -2437,7 +2450,7 @@
             {
                 "actual_create_time": "2020-04-28T23:05:41Z",
                 "create_time": "2020-04-28T23:20:03.328675209Z",
-                "favorite_count": 31431,
+                "favorite_count": 31433,
                 "retweet_count": 829,
                 "tweet_id": 1255272000756613121,
                 "user_id": 1011601174351482881,
@@ -2618,7 +2631,7 @@
                 "actual_create_time": "2020-04-28T22:46:32Z",
                 "create_time": "2020-04-28T22:56:37.140631305Z",
                 "favorite_count": 28293,
-                "retweet_count": 3908,
+                "retweet_count": 3906,
                 "tweet_id": 1255267181543251969,
                 "user_id": 998149664825335808,
                 "url": "https://twitter.com/998149664825335808/status/1255267181543251969"
@@ -2644,7 +2657,7 @@
             {
                 "actual_create_time": "2020-04-28T22:41:13Z",
                 "create_time": "2020-04-28T22:50:45.618023344Z",
-                "favorite_count": 14295,
+                "favorite_count": 14296,
                 "retweet_count": 1377,
                 "tweet_id": 1255265841760940032,
                 "user_id": 1112782729857429505,
@@ -3123,8 +3136,8 @@
     {
         "name": "#KutülAmare",
         "query": "%23Kut%C3%BClAmare",
-        "tweet_volume": 81167,
-        "create_time": "2020-04-30T03:35:54.619734647Z",
+        "tweet_volume": 81218,
+        "create_time": "2020-04-30T03:41:39.910718499Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T17:52:25Z",
@@ -3455,13 +3468,13 @@
     {
         "name": "#AltaylıÜrüyorMadamGülüyor",
         "query": "%23Altayl%C4%B1%C3%9Cr%C3%BCyorMadamG%C3%BCl%C3%BCyor",
-        "tweet_volume": 65370,
-        "create_time": "2020-04-30T03:35:55.330944996Z",
+        "tweet_volume": 65391,
+        "create_time": "2020-04-30T03:41:40.53108836Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T19:40:08Z",
                 "create_time": "2020-04-30T02:26:30.465191944Z",
-                "favorite_count": 1072,
+                "favorite_count": 1075,
                 "retweet_count": 215,
                 "tweet_id": 1255582660275175424,
                 "user_id": 704685462296903680,
@@ -3497,7 +3510,7 @@
             {
                 "actual_create_time": "2020-04-29T18:13:11Z",
                 "create_time": "2020-04-29T22:59:17.910748979Z",
-                "favorite_count": 1197,
+                "favorite_count": 1198,
                 "retweet_count": 263,
                 "tweet_id": 1255560779035705347,
                 "user_id": 3165093951,
@@ -3506,7 +3519,7 @@
             {
                 "actual_create_time": "2020-04-29T19:12:55Z",
                 "create_time": "2020-04-29T22:31:14.233420802Z",
-                "favorite_count": 1503,
+                "favorite_count": 1504,
                 "retweet_count": 426,
                 "tweet_id": 1255575813010923520,
                 "user_id": 704685462296903680,
@@ -3515,8 +3528,8 @@
             {
                 "actual_create_time": "2020-04-29T17:54:40Z",
                 "create_time": "2020-04-29T22:14:20.300695917Z",
-                "favorite_count": 1260,
-                "retweet_count": 328,
+                "favorite_count": 1261,
+                "retweet_count": 329,
                 "tweet_id": 1255556120518840320,
                 "user_id": 215618996,
                 "url": "https://twitter.com/215618996/status/1255556120518840320"
@@ -3524,7 +3537,7 @@
             {
                 "actual_create_time": "2020-04-29T17:17:35Z",
                 "create_time": "2020-04-29T22:08:40.534159388Z",
-                "favorite_count": 1079,
+                "favorite_count": 1080,
                 "retweet_count": 224,
                 "tweet_id": 1255546787521335301,
                 "user_id": 1595496534,
@@ -3569,8 +3582,8 @@
             {
                 "actual_create_time": "2020-04-29T18:39:19Z",
                 "create_time": "2020-04-29T19:54:16.372781783Z",
-                "favorite_count": 2581,
-                "retweet_count": 573,
+                "favorite_count": 2582,
+                "retweet_count": 574,
                 "tweet_id": 1255567355431747586,
                 "user_id": 990621226002518023,
                 "url": "https://twitter.com/990621226002518023/status/1255567355431747586"
@@ -3596,7 +3609,7 @@
             {
                 "actual_create_time": "2020-04-29T18:08:56Z",
                 "create_time": "2020-04-29T19:13:05.043873143Z",
-                "favorite_count": 2493,
+                "favorite_count": 2495,
                 "retweet_count": 809,
                 "tweet_id": 1255559709836353537,
                 "user_id": 990621226002518023,
@@ -3614,8 +3627,8 @@
             {
                 "actual_create_time": "2020-04-29T17:25:54Z",
                 "create_time": "2020-04-29T18:08:17.373176167Z",
-                "favorite_count": 3632,
-                "retweet_count": 746,
+                "favorite_count": 3634,
+                "retweet_count": 747,
                 "tweet_id": 1255548880147619843,
                 "user_id": 212292237,
                 "url": "https://twitter.com/212292237/status/1255548880147619843"
@@ -3623,8 +3636,8 @@
             {
                 "actual_create_time": "2020-04-29T16:54:52Z",
                 "create_time": "2020-04-29T18:02:27.400432168Z",
-                "favorite_count": 7096,
-                "retweet_count": 1418,
+                "favorite_count": 7105,
+                "retweet_count": 1419,
                 "tweet_id": 1255541068747223043,
                 "user_id": 990621226002518023,
                 "url": "https://twitter.com/990621226002518023/status/1255541068747223043"
@@ -3635,7 +3648,7 @@
         "name": "#survivo2020",
         "query": "%23survivo2020",
         "tweet_volume": 64187,
-        "create_time": "2020-04-30T03:35:55.818438213Z",
+        "create_time": "2020-04-30T03:41:41.003274809Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T19:18:34Z",
@@ -4333,7 +4346,7 @@
             {
                 "actual_create_time": "2020-04-28T21:01:57Z",
                 "create_time": "2020-04-28T21:11:20.45588098Z",
-                "favorite_count": 6679,
+                "favorite_count": 6677,
                 "retweet_count": 130,
                 "tweet_id": 1255240864097591303,
                 "user_id": 920040590481526786,
@@ -4612,7 +4625,7 @@
             {
                 "actual_create_time": "2020-04-28T20:39:12Z",
                 "create_time": "2020-04-28T20:48:02.587830025Z",
-                "favorite_count": 6511,
+                "favorite_count": 6512,
                 "retweet_count": 158,
                 "tweet_id": 1255235137824083969,
                 "user_id": 833372722696687618,
@@ -6037,12 +6050,12 @@
         "name": "#aliyiöldürenlernerede",
         "query": "%23aliyi%C3%B6ld%C3%BCrenlernerede",
         "tweet_volume": 82799,
-        "create_time": "2020-04-30T03:35:56.211869514Z",
+        "create_time": "2020-04-30T03:41:41.423351488Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-28T00:53:53Z",
                 "create_time": "2020-04-30T01:40:38.487255574Z",
-                "favorite_count": 65714,
+                "favorite_count": 65717,
                 "retweet_count": 6381,
                 "tweet_id": 1254936842820096005,
                 "user_id": 1254357968096759810,
@@ -6159,7 +6172,7 @@
             {
                 "actual_create_time": "2020-04-28T13:57:00Z",
                 "create_time": "2020-04-29T09:29:53.22288295Z",
-                "favorite_count": 23440,
+                "favorite_count": 23439,
                 "retweet_count": 6703,
                 "tweet_id": 1255133921508876292,
                 "user_id": 593075686,
@@ -6195,7 +6208,7 @@
             {
                 "actual_create_time": "2020-04-28T12:52:57Z",
                 "create_time": "2020-04-29T09:29:53.22288295Z",
-                "favorite_count": 1990,
+                "favorite_count": 1992,
                 "retweet_count": 223,
                 "tweet_id": 1255117802014474240,
                 "user_id": 1012757307363643392,
@@ -6213,7 +6226,7 @@
             {
                 "actual_create_time": "2020-04-28T11:40:26Z",
                 "create_time": "2020-04-29T09:29:53.22288295Z",
-                "favorite_count": 3920,
+                "favorite_count": 3919,
                 "retweet_count": 761,
                 "tweet_id": 1255099553008635905,
                 "user_id": 357049414,
@@ -6258,7 +6271,7 @@
             {
                 "actual_create_time": "2020-04-28T10:23:20Z",
                 "create_time": "2020-04-29T09:29:53.22288295Z",
-                "favorite_count": 10266,
+                "favorite_count": 10267,
                 "retweet_count": 1312,
                 "tweet_id": 1255080147650314240,
                 "user_id": 257941615,
@@ -6384,7 +6397,7 @@
             {
                 "actual_create_time": "2020-04-28T07:32:48Z",
                 "create_time": "2020-04-29T09:29:53.22288295Z",
-                "favorite_count": 2655,
+                "favorite_count": 2653,
                 "retweet_count": 641,
                 "tweet_id": 1255037232731348992,
                 "user_id": 48283368,
@@ -6393,7 +6406,7 @@
             {
                 "actual_create_time": "2020-04-28T07:05:34Z",
                 "create_time": "2020-04-29T09:29:53.22288295Z",
-                "favorite_count": 3313,
+                "favorite_count": 3312,
                 "retweet_count": 645,
                 "tweet_id": 1255030379590963200,
                 "user_id": 741292773802967040,
@@ -6729,12 +6742,12 @@
         "name": "#carsamba",
         "query": "%23carsamba",
         "tweet_volume": 29036,
-        "create_time": "2020-04-30T03:35:56.676960879Z",
+        "create_time": "2020-04-30T03:41:41.83709143Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T23:58:00Z",
                 "create_time": "2020-04-30T01:40:38.993302781Z",
-                "favorite_count": 2363,
+                "favorite_count": 2377,
                 "retweet_count": 74,
                 "tweet_id": 1255647555817537536,
                 "user_id": 121096624,
@@ -6743,8 +6756,8 @@
             {
                 "actual_create_time": "2020-04-29T05:58:28Z",
                 "create_time": "2020-04-29T12:13:16.08597139Z",
-                "favorite_count": 1485,
-                "retweet_count": 194,
+                "favorite_count": 1487,
+                "retweet_count": 195,
                 "tweet_id": 1255375880911826946,
                 "user_id": 760391174083469312,
                 "url": "https://twitter.com/760391174083469312/status/1255375880911826946"
@@ -6752,8 +6765,8 @@
             {
                 "actual_create_time": "2020-04-28T18:04:17Z",
                 "create_time": "2020-04-29T05:49:49.804533959Z",
-                "favorite_count": 1796,
-                "retweet_count": 209,
+                "favorite_count": 1797,
+                "retweet_count": 210,
                 "tweet_id": 1255196150027649024,
                 "user_id": 322587111,
                 "url": "https://twitter.com/322587111/status/1255196150027649024"
@@ -6817,14 +6830,14 @@
     {
         "name": "#herkesgeçecek",
         "query": "%23herkesge%C3%A7ecek",
-        "tweet_volume": 11171,
-        "create_time": "2020-04-30T03:35:57.000071548Z",
+        "tweet_volume": 11182,
+        "create_time": "2020-04-30T03:41:42.122978373Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T15:58:58Z",
                 "create_time": "2020-04-29T16:18:09.858045451Z",
-                "favorite_count": 5053,
-                "retweet_count": 144,
+                "favorite_count": 5054,
+                "retweet_count": 145,
                 "tweet_id": 1255527001164783616,
                 "user_id": 92487173,
                 "url": "https://twitter.com/92487173/status/1255527001164783616"
@@ -6834,14 +6847,14 @@
     {
         "name": "#Başaracağız",
         "query": "%23Ba%C5%9Faraca%C4%9F%C4%B1z",
-        "tweet_volume": 13952,
-        "create_time": "2020-04-30T03:35:57.393462772Z",
+        "tweet_volume": 13967,
+        "create_time": "2020-04-30T03:41:42.538352542Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T19:31:59Z",
                 "create_time": "2020-04-29T21:40:05.991924903Z",
-                "favorite_count": 1375,
-                "retweet_count": 200,
+                "favorite_count": 1379,
+                "retweet_count": 201,
                 "tweet_id": 1255580609994534916,
                 "user_id": 742280946565681152,
                 "url": "https://twitter.com/742280946565681152/status/1255580609994534916"
@@ -6849,7 +6862,7 @@
             {
                 "actual_create_time": "2020-04-29T19:48:47Z",
                 "create_time": "2020-04-29T20:53:26.125496875Z",
-                "favorite_count": 2158,
+                "favorite_count": 2161,
                 "retweet_count": 442,
                 "tweet_id": 1255584837479563264,
                 "user_id": 1211050169870868480,
@@ -6861,7 +6874,7 @@
         "name": "#SalgınBitinceİlkİş",
         "query": "%23Salg%C4%B1nBitince%C4%B0lk%C4%B0%C5%9F",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:57.652950678Z",
+        "create_time": "2020-04-30T03:41:42.774191675Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T08:44:32Z",
@@ -6893,8 +6906,8 @@
             {
                 "actual_create_time": "2020-04-29T05:58:28Z",
                 "create_time": "2020-04-29T12:13:07.915604825Z",
-                "favorite_count": 1485,
-                "retweet_count": 194,
+                "favorite_count": 1487,
+                "retweet_count": 195,
                 "tweet_id": 1255375880911826946,
                 "user_id": 760391174083469312,
                 "url": "https://twitter.com/760391174083469312/status/1255375880911826946"
@@ -6911,7 +6924,7 @@
             {
                 "actual_create_time": "2020-04-29T05:30:14Z",
                 "create_time": "2020-04-29T10:51:24.397485184Z",
-                "favorite_count": 1732,
+                "favorite_count": 1733,
                 "retweet_count": 231,
                 "tweet_id": 1255368774250827776,
                 "user_id": 1112948827747770368,
@@ -6931,13 +6944,13 @@
     {
         "name": "#YeterKi",
         "query": "%23YeterKi",
-        "tweet_volume": 10119,
-        "create_time": "2020-04-30T03:35:58.148791579Z",
+        "tweet_volume": 10129,
+        "create_time": "2020-04-30T03:41:43.155289077Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-24T08:36:43Z",
                 "create_time": "2020-04-29T18:55:31.129840291Z",
-                "favorite_count": 2177,
+                "favorite_count": 2178,
                 "retweet_count": 389,
                 "tweet_id": 1253603765409775616,
                 "user_id": 109217956,
@@ -6949,12 +6962,12 @@
         "name": "#Çarşamba",
         "query": "%23%C3%87ar%C5%9Famba",
         "tweet_volume": 29034,
-        "create_time": "2020-04-30T03:35:58.400022317Z",
+        "create_time": "2020-04-30T03:41:43.368922559Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T23:58:00Z",
                 "create_time": "2020-04-30T01:52:05.786386651Z",
-                "favorite_count": 2363,
+                "favorite_count": 2377,
                 "retweet_count": 74,
                 "tweet_id": 1255647555817537536,
                 "user_id": 121096624,
@@ -6963,8 +6976,8 @@
             {
                 "actual_create_time": "2020-04-29T05:58:28Z",
                 "create_time": "2020-04-29T12:54:13.463431172Z",
-                "favorite_count": 1485,
-                "retweet_count": 194,
+                "favorite_count": 1487,
+                "retweet_count": 195,
                 "tweet_id": 1255375880911826946,
                 "user_id": 760391174083469312,
                 "url": "https://twitter.com/760391174083469312/status/1255375880911826946"
@@ -6972,8 +6985,8 @@
             {
                 "actual_create_time": "2020-04-28T18:04:17Z",
                 "create_time": "2020-04-29T11:44:13.881306456Z",
-                "favorite_count": 1796,
-                "retweet_count": 209,
+                "favorite_count": 1797,
+                "retweet_count": 210,
                 "tweet_id": 1255196150027649024,
                 "user_id": 322587111,
                 "url": "https://twitter.com/322587111/status/1255196150027649024"
@@ -7038,7 +7051,7 @@
         "name": "#YKStarihinidegistirme",
         "query": "%23YKStarihinidegistirme",
         "tweet_volume": 58000,
-        "create_time": "2020-04-30T03:35:58.764564695Z",
+        "create_time": "2020-04-30T03:41:43.762722881Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T19:05:17Z",
@@ -7223,7 +7236,7 @@
             {
                 "actual_create_time": "2020-04-28T21:38:09Z",
                 "create_time": "2020-04-29T10:51:35.134474013Z",
-                "favorite_count": 1049,
+                "favorite_count": 1048,
                 "retweet_count": 116,
                 "tweet_id": 1255249972678791173,
                 "user_id": 4590456561,
@@ -7241,7 +7254,7 @@
             {
                 "actual_create_time": "2020-04-28T22:04:52Z",
                 "create_time": "2020-04-29T10:45:45.645044131Z",
-                "favorite_count": 1889,
+                "favorite_count": 1888,
                 "retweet_count": 199,
                 "tweet_id": 1255256694994751498,
                 "user_id": 48640706,
@@ -7340,7 +7353,7 @@
             {
                 "actual_create_time": "2020-04-29T07:13:28Z",
                 "create_time": "2020-04-29T08:21:04.705954602Z",
-                "favorite_count": 4945,
+                "favorite_count": 4946,
                 "retweet_count": 653,
                 "tweet_id": 1255394755212718080,
                 "user_id": 1152985732425887744,
@@ -7385,8 +7398,8 @@
             {
                 "actual_create_time": "2020-04-28T21:40:41Z",
                 "create_time": "2020-04-29T07:07:53.66002918Z",
-                "favorite_count": 3131,
-                "retweet_count": 389,
+                "favorite_count": 3130,
+                "retweet_count": 387,
                 "tweet_id": 1255250609353220096,
                 "user_id": 48640706,
                 "url": "https://twitter.com/48640706/status/1255250609353220096"
@@ -7430,7 +7443,7 @@
             {
                 "actual_create_time": "2020-04-28T22:41:13Z",
                 "create_time": "2020-04-29T06:51:08.931761696Z",
-                "favorite_count": 14295,
+                "favorite_count": 14296,
                 "retweet_count": 1377,
                 "tweet_id": 1255265841760940032,
                 "user_id": 1112782729857429505,
@@ -7692,7 +7705,7 @@
                 "actual_create_time": "2020-04-28T22:46:32Z",
                 "create_time": "2020-04-29T06:23:09.371418829Z",
                 "favorite_count": 28293,
-                "retweet_count": 3908,
+                "retweet_count": 3906,
                 "tweet_id": 1255267181543251969,
                 "user_id": 998149664825335808,
                 "url": "https://twitter.com/998149664825335808/status/1255267181543251969"
@@ -7745,7 +7758,7 @@
             {
                 "actual_create_time": "2020-04-28T22:37:58Z",
                 "create_time": "2020-04-29T06:23:09.371418829Z",
-                "favorite_count": 2598,
+                "favorite_count": 2599,
                 "retweet_count": 338,
                 "tweet_id": 1255265023733219328,
                 "user_id": 797537268105932800,
@@ -7808,7 +7821,7 @@
             {
                 "actual_create_time": "2020-04-28T21:48:32Z",
                 "create_time": "2020-04-29T06:23:09.371418829Z",
-                "favorite_count": 4041,
+                "favorite_count": 4042,
                 "retweet_count": 325,
                 "tweet_id": 1255252584807481348,
                 "user_id": 2373766779,
@@ -7846,14 +7859,14 @@
     {
         "name": "#hesapsoruyoruz",
         "query": "%23hesapsoruyoruz",
-        "tweet_volume": 19579,
-        "create_time": "2020-04-30T03:35:59.234719764Z",
+        "tweet_volume": 19622,
+        "create_time": "2020-04-30T03:41:44.314996964Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T21:37:42Z",
                 "create_time": "2020-04-30T03:30:11.962538558Z",
-                "favorite_count": 1713,
-                "retweet_count": 655,
+                "favorite_count": 1729,
+                "retweet_count": 658,
                 "tweet_id": 1255612248288092160,
                 "user_id": 1020723576876552193,
                 "url": "https://twitter.com/1020723576876552193/status/1255612248288092160"
@@ -7861,7 +7874,7 @@
             {
                 "actual_create_time": "2020-04-29T18:17:23Z",
                 "create_time": "2020-04-30T03:30:11.962538558Z",
-                "favorite_count": 1483,
+                "favorite_count": 1485,
                 "retweet_count": 425,
                 "tweet_id": 1255561837686513666,
                 "user_id": 293421226,
@@ -7873,14 +7886,14 @@
         "name": "#mebşubemüdürüklavuzbekliyor",
         "query": "%23meb%C5%9Fubem%C3%BCd%C3%BCr%C3%BCklavuzbekliyor",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:59.450676033Z",
+        "create_time": "2020-04-30T03:41:44.527368493Z",
         "tweets": null
     },
     {
         "name": "#hayatgüzelama",
         "query": "%23hayatg%C3%BCzelama",
         "tweet_volume": 14353,
-        "create_time": "2020-04-30T03:35:59.656158135Z",
+        "create_time": "2020-04-30T03:41:44.774070349Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-28T16:29:49Z",
@@ -7942,19 +7955,19 @@
         "name": "#reisteniibfye3binguy",
         "query": "%23reisteniibfye3binguy",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T03:35:59.777951437Z",
+        "create_time": "2020-04-30T03:41:44.911830546Z",
         "tweets": null
     },
     {
         "name": "#hainlerçıldırıyor",
         "query": "%23hainler%C3%A7%C4%B1ld%C4%B1r%C4%B1yor",
         "tweet_volume": 22984,
-        "create_time": "2020-04-30T03:36:00.174722895Z",
+        "create_time": "2020-04-30T03:41:45.298562962Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T11:12:03Z",
                 "create_time": "2020-04-30T02:55:24.301963699Z",
-                "favorite_count": 3662,
+                "favorite_count": 3663,
                 "retweet_count": 290,
                 "tweet_id": 1255454795655188481,
                 "user_id": 2356055995,
@@ -8008,7 +8021,7 @@
             {
                 "actual_create_time": "2020-04-29T07:15:49Z",
                 "create_time": "2020-04-30T02:55:24.301963699Z",
-                "favorite_count": 7357,
+                "favorite_count": 7360,
                 "retweet_count": 699,
                 "tweet_id": 1255395346903162887,
                 "user_id": 2960844275,
@@ -8074,12 +8087,12 @@
         "name": "#GüçlüTürkiye",
         "query": "%23G%C3%BC%C3%A7l%C3%BCT%C3%BCrkiye",
         "tweet_volume": 57253,
-        "create_time": "2020-04-30T03:36:00.648428005Z",
+        "create_time": "2020-04-30T03:41:45.810268191Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T19:29:03Z",
                 "create_time": "2020-04-30T03:24:26.850180979Z",
-                "favorite_count": 3234,
+                "favorite_count": 3237,
                 "retweet_count": 1398,
                 "tweet_id": 1255579872476487684,
                 "user_id": 1628824092,
@@ -8151,7 +8164,7 @@
             {
                 "actual_create_time": "2020-04-28T22:06:00Z",
                 "create_time": "2020-04-28T22:09:51.666674521Z",
-                "favorite_count": 30364,
+                "favorite_count": 30370,
                 "retweet_count": 3591,
                 "tweet_id": 1255256979695599617,
                 "user_id": 737302248338952193,
@@ -8178,7 +8191,7 @@
             {
                 "actual_create_time": "2020-04-28T16:38:27Z",
                 "create_time": "2020-04-28T20:13:25.323297175Z",
-                "favorite_count": 2004,
+                "favorite_count": 2005,
                 "retweet_count": 537,
                 "tweet_id": 1255174552193302536,
                 "user_id": 2535040898,
@@ -8187,8 +8200,8 @@
             {
                 "actual_create_time": "2020-04-28T19:32:53Z",
                 "create_time": "2020-04-28T19:44:44.515036935Z",
-                "favorite_count": 18695,
-                "retweet_count": 3380,
+                "favorite_count": 18698,
+                "retweet_count": 3381,
                 "tweet_id": 1255218448331833347,
                 "user_id": 967087600426209281,
                 "url": "https://twitter.com/967087600426209281/status/1255218448331833347"
@@ -8223,7 +8236,7 @@
             {
                 "actual_create_time": "2020-04-28T16:37:49Z",
                 "create_time": "2020-04-28T17:37:32.693361401Z",
-                "favorite_count": 3873,
+                "favorite_count": 3874,
                 "retweet_count": 1346,
                 "tweet_id": 1255174392390340612,
                 "user_id": 1628824092,
@@ -8244,7 +8257,31 @@
         "name": "#Agustos2017yeEşÖzrü",
         "query": "%23Agustos2017yeE%C5%9F%C3%96zr%C3%BC",
         "tweet_volume": 16728,
-        "create_time": "2020-04-30T03:36:00.924701627Z",
+        "create_time": "2020-04-30T03:41:46.090223044Z",
+        "tweets": null
+    },
+    {
+        "name": "#CHEN",
+        "query": "%23CHEN",
+        "tweet_volume": 449772,
+        "create_time": "2020-04-30T03:41:46.300104806Z",
+        "tweets": [
+            {
+                "actual_create_time": "2020-04-29T10:47:27Z",
+                "create_time": "2020-04-29T15:21:35.720266896Z",
+                "favorite_count": 1181,
+                "retweet_count": 110,
+                "tweet_id": 1255448605097431043,
+                "user_id": 1181988052006264838,
+                "url": "https://twitter.com/1181988052006264838/status/1255448605097431043"
+            }
+        ]
+    },
+    {
+        "name": "#sahurlar",
+        "query": "%23sahurlar",
+        "tweet_volume": 0,
+        "create_time": "2020-04-30T03:35:52.387476406Z",
         "tweets": null
     },
     {
@@ -11854,23 +11891,6 @@
         "tweet_volume": 17443,
         "create_time": "2020-04-29T20:12:15.362627522Z",
         "tweets": null
-    },
-    {
-        "name": "#CHEN",
-        "query": "%23CHEN",
-        "tweet_volume": 438237,
-        "create_time": "2020-04-29T20:12:20.907245297Z",
-        "tweets": [
-            {
-                "actual_create_time": "2020-04-29T10:47:27Z",
-                "create_time": "2020-04-29T15:21:35.720266896Z",
-                "favorite_count": 1165,
-                "retweet_count": 108,
-                "tweet_id": 1255448605097431043,
-                "user_id": 1181988052006264838,
-                "url": "https://twitter.com/1181988052006264838/status/1255448605097431043"
-            }
-        ]
     },
     {
         "name": "#yeterki",
