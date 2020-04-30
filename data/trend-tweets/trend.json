@@ -3,13 +3,13 @@
         "name": "#deprem",
         "query": "%23deprem",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:25.544059738Z",
+        "create_time": "2020-04-30T11:16:58.067515814Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T09:34:44Z",
                 "create_time": "2020-04-30T11:11:25.543919284Z",
-                "favorite_count": 1047,
-                "retweet_count": 54,
+                "favorite_count": 1096,
+                "retweet_count": 56,
                 "tweet_id": 1255792694275776512,
                 "user_id": 1222665928984485893,
                 "url": "https://twitter.com/1222665928984485893/status/1255792694275776512"
@@ -17,8 +17,8 @@
             {
                 "actual_create_time": "2020-04-30T08:57:07Z",
                 "create_time": "2020-04-30T11:11:25.543919284Z",
-                "favorite_count": 1424,
-                "retweet_count": 168,
+                "favorite_count": 1442,
+                "retweet_count": 169,
                 "tweet_id": 1255783226943168513,
                 "user_id": 325397315,
                 "url": "https://twitter.com/325397315/status/1255783226943168513"
@@ -44,8 +44,8 @@
             {
                 "actual_create_time": "2020-04-27T06:00:04Z",
                 "create_time": "2020-04-30T11:11:25.543919284Z",
-                "favorite_count": 4891,
-                "retweet_count": 1253,
+                "favorite_count": 4895,
+                "retweet_count": 1255,
                 "tweet_id": 1254651507401797636,
                 "user_id": 872626917236539393,
                 "url": "https://twitter.com/872626917236539393/status/1254651507401797636"
@@ -53,7 +53,7 @@
             {
                 "actual_create_time": "2020-04-27T02:56:06Z",
                 "create_time": "2020-04-30T11:11:25.543919284Z",
-                "favorite_count": 1086,
+                "favorite_count": 1090,
                 "retweet_count": 83,
                 "tweet_id": 1254605210061803523,
                 "user_id": 3179343821,
@@ -62,8 +62,8 @@
             {
                 "actual_create_time": "2020-04-27T02:42:21Z",
                 "create_time": "2020-04-30T11:11:25.543919284Z",
-                "favorite_count": 3772,
-                "retweet_count": 270,
+                "favorite_count": 3769,
+                "retweet_count": 271,
                 "tweet_id": 1254601752277647360,
                 "user_id": 1170091964139737090,
                 "url": "https://twitter.com/1170091964139737090/status/1254601752277647360"
@@ -80,7 +80,7 @@
             {
                 "actual_create_time": "2020-04-27T02:22:24Z",
                 "create_time": "2020-04-30T11:11:25.543919284Z",
-                "favorite_count": 1855,
+                "favorite_count": 1860,
                 "retweet_count": 116,
                 "tweet_id": 1254596729770512391,
                 "user_id": 1028286109883813891,
@@ -98,7 +98,7 @@
             {
                 "actual_create_time": "2020-04-27T02:13:24Z",
                 "create_time": "2020-04-30T11:11:25.543919284Z",
-                "favorite_count": 1644,
+                "favorite_count": 1646,
                 "retweet_count": 42,
                 "tweet_id": 1254594466255712256,
                 "user_id": 755535136108797952,
@@ -118,14 +118,14 @@
     {
         "name": "#perşembe",
         "query": "%23per%C5%9Fembe",
-        "tweet_volume": 16833,
-        "create_time": "2020-04-30T11:11:26.14679117Z",
+        "tweet_volume": 17073,
+        "create_time": "2020-04-30T11:16:58.687442042Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T05:51:01Z",
                 "create_time": "2020-04-30T09:21:04.622854454Z",
-                "favorite_count": 1623,
-                "retweet_count": 277,
+                "favorite_count": 1648,
+                "retweet_count": 280,
                 "tweet_id": 1255736393977999362,
                 "user_id": 933776994445258754,
                 "url": "https://twitter.com/933776994445258754/status/1255736393977999362"
@@ -142,16 +142,23 @@
         ]
     },
     {
+        "name": "#RespectBTSJin",
+        "query": "%23RespectBTSJin",
+        "tweet_volume": 47557,
+        "create_time": "2020-04-30T11:16:58.971714655Z",
+        "tweets": null
+    },
+    {
         "name": "#1MAYIS",
         "query": "%231MAYIS",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:26.534280245Z",
+        "create_time": "2020-04-30T11:16:59.314514782Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T06:21:10Z",
                 "create_time": "2020-04-30T09:15:39.757329673Z",
-                "favorite_count": 1277,
-                "retweet_count": 120,
+                "favorite_count": 1297,
+                "retweet_count": 121,
                 "tweet_id": 1255743979750031360,
                 "user_id": 221790511,
                 "url": "https://twitter.com/221790511/status/1255743979750031360"
@@ -168,23 +175,16 @@
         ]
     },
     {
-        "name": "#RespectBTSJin",
-        "query": "%23RespectBTSJin",
-        "tweet_volume": 46027,
-        "create_time": "2020-04-30T11:11:26.822189922Z",
-        "tweets": null
-    },
-    {
         "name": "Özgür Özel",
         "query": "%22%C3%96zg%C3%BCr+%C3%96zel%22",
-        "tweet_volume": 50735,
-        "create_time": "2020-04-30T11:11:27.485674493Z",
+        "tweet_volume": 51139,
+        "create_time": "2020-04-30T11:16:59.985549803Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T10:21:58Z",
                 "create_time": "2020-04-30T11:11:27.48561097Z",
-                "favorite_count": 1021,
-                "retweet_count": 344,
+                "favorite_count": 1081,
+                "retweet_count": 356,
                 "tweet_id": 1255804581814001667,
                 "user_id": 255515879,
                 "url": "https://twitter.com/255515879/status/1255804581814001667"
@@ -192,8 +192,8 @@
             {
                 "actual_create_time": "2020-04-30T09:25:17Z",
                 "create_time": "2020-04-30T10:49:15.95565725Z",
-                "favorite_count": 1261,
-                "retweet_count": 186,
+                "favorite_count": 1318,
+                "retweet_count": 194,
                 "tweet_id": 1255790317376278529,
                 "user_id": 98080974,
                 "url": "https://twitter.com/98080974/status/1255790317376278529"
@@ -201,8 +201,8 @@
             {
                 "actual_create_time": "2020-04-30T09:24:43Z",
                 "create_time": "2020-04-30T09:48:35.898626216Z",
-                "favorite_count": 3591,
-                "retweet_count": 390,
+                "favorite_count": 3710,
+                "retweet_count": 402,
                 "tweet_id": 1255790175227084800,
                 "user_id": 240601558,
                 "url": "https://twitter.com/240601558/status/1255790175227084800"
@@ -237,8 +237,8 @@
             {
                 "actual_create_time": "2020-04-30T07:31:18Z",
                 "create_time": "2020-04-30T08:25:37.731502976Z",
-                "favorite_count": 3673,
-                "retweet_count": 772,
+                "favorite_count": 3756,
+                "retweet_count": 790,
                 "tweet_id": 1255761631331704834,
                 "user_id": 990621226002518023,
                 "url": "https://twitter.com/990621226002518023/status/1255761631331704834"
@@ -300,8 +300,8 @@
             {
                 "actual_create_time": "2020-04-30T00:17:05Z",
                 "create_time": "2020-04-30T02:03:20.606401379Z",
-                "favorite_count": 2551,
-                "retweet_count": 305,
+                "favorite_count": 2606,
+                "retweet_count": 310,
                 "tweet_id": 1255652357372862467,
                 "user_id": 1079368346,
                 "url": "https://twitter.com/1079368346/status/1255652357372862467"
@@ -663,13 +663,13 @@
         "name": "#AyhanBilgenYalnızDeğildir",
         "query": "%23AyhanBilgenYaln%C4%B1zDe%C4%9Fildir",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:27.738145221Z",
+        "create_time": "2020-04-30T11:17:00.248687244Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T08:26:47Z",
                 "create_time": "2020-04-30T09:59:44.372601529Z",
-                "favorite_count": 1647,
-                "retweet_count": 415,
+                "favorite_count": 1688,
+                "retweet_count": 418,
                 "tweet_id": 1255775595692281857,
                 "user_id": 172852480,
                 "url": "https://twitter.com/172852480/status/1255775595692281857"
@@ -677,22 +677,15 @@
         ]
     },
     {
-        "name": "Dayanışma Günü",
-        "query": "%22Dayan%C4%B1%C5%9Fma+G%C3%BCn%C3%BC%22",
-        "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:28.007166031Z",
-        "tweets": null
-    },
-    {
         "name": "Gökhan Gönül",
         "query": "%22G%C3%B6khan+G%C3%B6n%C3%BCl%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:28.343191745Z",
+        "create_time": "2020-04-30T11:17:00.554419086Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T21:01:35Z",
                 "create_time": "2020-04-30T01:51:53.410287386Z",
-                "favorite_count": 1904,
+                "favorite_count": 1910,
                 "retweet_count": 85,
                 "tweet_id": 1255603156815355912,
                 "user_id": 902574242990055424,
@@ -701,7 +694,7 @@
             {
                 "actual_create_time": "2020-04-30T00:12:15Z",
                 "create_time": "2020-04-30T01:29:00.150347141Z",
-                "favorite_count": 2487,
+                "favorite_count": 2494,
                 "retweet_count": 37,
                 "tweet_id": 1255651140705964033,
                 "user_id": 70744910,
@@ -710,8 +703,8 @@
             {
                 "actual_create_time": "2020-04-29T23:53:06Z",
                 "create_time": "2020-04-30T01:29:00.150347141Z",
-                "favorite_count": 5653,
-                "retweet_count": 104,
+                "favorite_count": 5685,
+                "retweet_count": 103,
                 "tweet_id": 1255646320880205825,
                 "user_id": 70744910,
                 "url": "https://twitter.com/70744910/status/1255646320880205825"
@@ -719,16 +712,23 @@
         ]
     },
     {
+        "name": "Dayanışma Günü",
+        "query": "%22Dayan%C4%B1%C5%9Fma+G%C3%BCn%C3%BC%22",
+        "tweet_volume": 0,
+        "create_time": "2020-04-30T11:17:00.820711988Z",
+        "tweets": null
+    },
+    {
         "name": "Doping",
         "query": "Doping",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:28.604422753Z",
+        "create_time": "2020-04-30T11:17:01.079434512Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T06:05:41Z",
                 "create_time": "2020-04-30T06:30:23.591777974Z",
-                "favorite_count": 9007,
-                "retweet_count": 125,
+                "favorite_count": 9171,
+                "retweet_count": 127,
                 "tweet_id": 1255740084286095360,
                 "user_id": 1042047007,
                 "url": "https://twitter.com/1042047007/status/1255740084286095360"
@@ -739,20 +739,27 @@
         "name": "KamuVicdanı Aldatmacası",
         "query": "%22KamuVicdan%C4%B1+Aldatmacas%C4%B1%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:28.878888709Z",
+        "create_time": "2020-04-30T11:17:01.367649848Z",
+        "tweets": null
+    },
+    {
+        "name": "Bayramda 9",
+        "query": "%22Bayramda+9%22",
+        "tweet_volume": 0,
+        "create_time": "2020-04-30T11:17:01.546127329Z",
         "tweets": null
     },
     {
         "name": "Filistin'e",
         "query": "Filistin%27e",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:29.206539092Z",
+        "create_time": "2020-04-30T11:17:01.906250212Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T09:10:27Z",
                 "create_time": "2020-04-30T09:54:09.202802575Z",
-                "favorite_count": 2042,
-                "retweet_count": 317,
+                "favorite_count": 2105,
+                "retweet_count": 326,
                 "tweet_id": 1255786581547417600,
                 "user_id": 262690924,
                 "url": "https://twitter.com/262690924/status/1255786581547417600"
@@ -760,8 +767,8 @@
             {
                 "actual_create_time": "2020-04-30T08:44:22Z",
                 "create_time": "2020-04-30T09:15:36.457772872Z",
-                "favorite_count": 12632,
-                "retweet_count": 2197,
+                "favorite_count": 12927,
+                "retweet_count": 2240,
                 "tweet_id": 1255780020917866498,
                 "user_id": 153772652,
                 "url": "https://twitter.com/153772652/status/1255780020917866498"
@@ -769,31 +776,10 @@
         ]
     },
     {
-        "name": "Bayramda 9",
-        "query": "%22Bayramda+9%22",
-        "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:29.376771031Z",
-        "tweets": null
-    },
-    {
-        "name": "Elazığ'da 4.2",
-        "query": "%22Elaz%C4%B1%C4%9F%27da+4.2%22",
-        "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:29.579534431Z",
-        "tweets": null
-    },
-    {
-        "name": "TCMB Başkanı Uysal",
-        "query": "%22TCMB+Ba%C5%9Fkan%C4%B1+Uysal%22",
-        "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:29.762115015Z",
-        "tweets": null
-    },
-    {
         "name": "Fransa Ligue 1",
         "query": "%22Fransa+Ligue+1%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:29.987869558Z",
+        "create_time": "2020-04-30T11:17:02.075038924Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-28T14:19:38Z",
@@ -807,15 +793,29 @@
         ]
     },
     {
+        "name": "Elazığ'da 4.2",
+        "query": "%22Elaz%C4%B1%C4%9F%27da+4.2%22",
+        "tweet_volume": 0,
+        "create_time": "2020-04-30T11:17:02.277064319Z",
+        "tweets": null
+    },
+    {
+        "name": "TCMB Başkanı Uysal",
+        "query": "%22TCMB+Ba%C5%9Fkan%C4%B1+Uysal%22",
+        "tweet_volume": 0,
+        "create_time": "2020-04-30T11:17:02.497332004Z",
+        "tweets": null
+    },
+    {
         "name": "Türkiye'den ABD'ye",
         "query": "%22T%C3%BCrkiye%27den+ABD%27ye%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:30.259414879Z",
+        "create_time": "2020-04-30T11:17:02.752878671Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-28T16:09:02Z",
                 "create_time": "2020-04-30T08:20:00.683841716Z",
-                "favorite_count": 2352,
+                "favorite_count": 2353,
                 "retweet_count": 368,
                 "tweet_id": 1255167149024436230,
                 "user_id": 1089505614529773568,
@@ -854,7 +854,7 @@
         "name": "Merkez Bankası Başkanı",
         "query": "%22Merkez+Bankas%C4%B1+Ba%C5%9Fkan%C4%B1%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:30.463556216Z",
+        "create_time": "2020-04-30T11:17:02.962599977Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T10:18:36Z",
@@ -871,7 +871,7 @@
         "name": "İnançlı",
         "query": "%C4%B0nan%C3%A7l%C4%B1",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:30.649017555Z",
+        "create_time": "2020-04-30T11:17:03.137997477Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-27T20:04:36Z",
@@ -886,7 +886,7 @@
                 "actual_create_time": "2020-04-25T14:06:48Z",
                 "create_time": "2020-04-30T10:49:19.311596057Z",
                 "favorite_count": 1617,
-                "retweet_count": 80,
+                "retweet_count": 81,
                 "tweet_id": 1254049222153863168,
                 "user_id": 577556433,
                 "url": "https://twitter.com/577556433/status/1254049222153863168"
@@ -897,19 +897,19 @@
         "name": "bakan kasapoğlu",
         "query": "%22bakan+kasapo%C4%9Flu%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:30.840886452Z",
+        "create_time": "2020-04-30T11:17:03.316198814Z",
         "tweets": null
     },
     {
         "name": "Ülkücü Hareket",
         "query": "%22%C3%9Clk%C3%BCc%C3%BC+Hareket%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:31.115369998Z",
+        "create_time": "2020-04-30T11:17:03.602199356Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T15:10:32Z",
                 "create_time": "2020-04-30T10:10:44.362209359Z",
-                "favorite_count": 1032,
+                "favorite_count": 1033,
                 "retweet_count": 294,
                 "tweet_id": 1255514812014104578,
                 "user_id": 539006164,
@@ -921,7 +921,7 @@
         "name": "Gülben Ergen",
         "query": "%22G%C3%BClben+Ergen%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:31.284647642Z",
+        "create_time": "2020-04-30T11:17:03.759958268Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-23T07:26:07Z",
@@ -938,13 +938,13 @@
         "name": "1 Milyon Yazılımcı",
         "query": "%221+Milyon+Yaz%C4%B1l%C4%B1mc%C4%B1%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:31.536290844Z",
+        "create_time": "2020-04-30T11:17:04.011156942Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T07:01:34Z",
                 "create_time": "2020-04-30T08:08:41.789481002Z",
-                "favorite_count": 2863,
-                "retweet_count": 767,
+                "favorite_count": 2913,
+                "retweet_count": 786,
                 "tweet_id": 1255754150249476096,
                 "user_id": 3160777371,
                 "url": "https://twitter.com/3160777371/status/1255754150249476096"
@@ -964,40 +964,33 @@
         "name": "Teknoloji Liseleri",
         "query": "%22Teknoloji+Liseleri%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:31.757381881Z",
+        "create_time": "2020-04-30T11:17:04.203546274Z",
         "tweets": null
     },
     {
         "name": "Pınar Öğünç",
         "query": "%22P%C4%B1nar+%C3%96%C4%9F%C3%BCn%C3%A7%22",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:31.9012282Z",
-        "tweets": null
-    },
-    {
-        "name": "Düven",
-        "query": "D%C3%BCven",
-        "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:32.063280674Z",
+        "create_time": "2020-04-30T11:17:04.340839048Z",
         "tweets": null
     },
     {
         "name": "#Muğla",
         "query": "%23Mu%C4%9Fla",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:32.278467403Z",
+        "create_time": "2020-04-30T11:17:04.528789172Z",
         "tweets": null
     },
     {
         "name": "#PisYedili",
         "query": "%23PisYedili",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:32.563284549Z",
+        "create_time": "2020-04-30T11:17:04.818332127Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T07:41:20Z",
                 "create_time": "2020-04-30T10:38:20.722997351Z",
-                "favorite_count": 1244,
+                "favorite_count": 1279,
                 "retweet_count": 15,
                 "tweet_id": 1255764155887423488,
                 "user_id": 1011286936013737986,
@@ -1006,7 +999,7 @@
             {
                 "actual_create_time": "2020-04-30T00:27:57Z",
                 "create_time": "2020-04-30T10:21:47.438832875Z",
-                "favorite_count": 1064,
+                "favorite_count": 1065,
                 "retweet_count": 30,
                 "tweet_id": 1255655090494607365,
                 "user_id": 1080915684828368897,
@@ -1015,7 +1008,7 @@
             {
                 "actual_create_time": "2020-04-30T01:07:31Z",
                 "create_time": "2020-04-30T09:26:41.483966482Z",
-                "favorite_count": 1374,
+                "favorite_count": 1376,
                 "retweet_count": 47,
                 "tweet_id": 1255665049315745798,
                 "user_id": 808432818405703681,
@@ -1024,7 +1017,7 @@
             {
                 "actual_create_time": "2020-04-29T19:05:52Z",
                 "create_time": "2020-04-30T09:21:10.515387247Z",
-                "favorite_count": 1064,
+                "favorite_count": 1065,
                 "retweet_count": 82,
                 "tweet_id": 1255574038090571777,
                 "user_id": 356064164,
@@ -1033,37 +1026,44 @@
         ]
     },
     {
+        "name": "#Bitcoin",
+        "query": "%23Bitcoin",
+        "tweet_volume": 79585,
+        "create_time": "2020-04-30T11:17:05.125333619Z",
+        "tweets": null
+    },
+    {
         "name": "#ozgurozel",
         "query": "%23ozgurozel",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:32.764025776Z",
+        "create_time": "2020-04-30T11:17:05.349186513Z",
         "tweets": null
     },
     {
         "name": "#Tiktakçılar",
         "query": "%23Tiktak%C3%A7%C4%B1lar",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:33.001261889Z",
+        "create_time": "2020-04-30T11:17:05.579965871Z",
         "tweets": null
     },
     {
         "name": "#NOTBYTHEMOON2ndWin",
         "query": "%23NOTBYTHEMOON2ndWin",
-        "tweet_volume": 144417,
-        "create_time": "2020-04-30T11:11:33.207537591Z",
+        "tweet_volume": 165102,
+        "create_time": "2020-04-30T11:17:05.751320204Z",
         "tweets": null
     },
     {
         "name": "#ProtestoEdiyorum",
         "query": "%23ProtestoEdiyorum",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:33.57450015Z",
+        "create_time": "2020-04-30T11:17:06.127627818Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-30T05:51:01Z",
                 "create_time": "2020-04-30T09:21:05.848300159Z",
-                "favorite_count": 1623,
-                "retweet_count": 277,
+                "favorite_count": 1651,
+                "retweet_count": 281,
                 "tweet_id": 1255736393977999362,
                 "user_id": 933776994445258754,
                 "url": "https://twitter.com/933776994445258754/status/1255736393977999362"
@@ -1071,78 +1071,95 @@
         ]
     },
     {
-        "name": "#YepyeniBirHayat",
-        "query": "%23YepyeniBirHayat",
-        "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:33.786695708Z",
-        "tweets": null
-    },
-    {
         "name": "#lise2",
         "query": "%23lise2",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:33.983763873Z",
+        "create_time": "2020-04-30T11:17:06.376098201Z",
         "tweets": null
+    },
+    {
+        "name": "#YepyeniBirHayat",
+        "query": "%23YepyeniBirHayat",
+        "tweet_volume": 0,
+        "create_time": "2020-04-30T11:17:06.627102276Z",
+        "tweets": null
+    },
+    {
+        "name": "#ÖzgürÖzelSesimizdir",
+        "query": "%23%C3%96zg%C3%BCr%C3%96zelSesimizdir",
+        "tweet_volume": 0,
+        "create_time": "2020-04-30T11:17:06.822195629Z",
+        "tweets": [
+            {
+                "actual_create_time": "2020-04-30T09:25:17Z",
+                "create_time": "2020-04-30T11:17:06.822175404Z",
+                "favorite_count": 1318,
+                "retweet_count": 194,
+                "tweet_id": 1255790317376278529,
+                "user_id": 98080974,
+                "url": "https://twitter.com/98080974/status/1255790317376278529"
+            }
+        ]
     },
     {
         "name": "#afyon",
         "query": "%23afyon",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:34.165641083Z",
+        "create_time": "2020-04-30T11:17:07.047470866Z",
         "tweets": null
     },
     {
         "name": "#잘생긴_김석진_대회",
         "query": "%23%EC%9E%98%EC%83%9D%EA%B8%B4_%EA%B9%80%EC%84%9D%EC%A7%84_%EB%8C%80%ED%9A%8C",
-        "tweet_volume": 201184,
-        "create_time": "2020-04-30T11:11:34.375094522Z",
-        "tweets": null
-    },
-    {
-        "name": "#haklıyızkazanacağız",
-        "query": "%23hakl%C4%B1y%C4%B1zkazanaca%C4%9F%C4%B1z",
-        "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:34.580482138Z",
+        "tweet_volume": 201699,
+        "create_time": "2020-04-30T11:17:07.260797101Z",
         "tweets": null
     },
     {
         "name": "#dünyacazgünü",
         "query": "%23d%C3%BCnyacazg%C3%BCn%C3%BC",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:34.811697562Z",
+        "create_time": "2020-04-30T11:17:07.398122819Z",
+        "tweets": null
+    },
+    {
+        "name": "#haklıyızkazanacağız",
+        "query": "%23hakl%C4%B1y%C4%B1zkazanaca%C4%9F%C4%B1z",
+        "tweet_volume": 0,
+        "create_time": "2020-04-30T11:17:07.550443677Z",
         "tweets": null
     },
     {
         "name": "#enflasyon",
         "query": "%23enflasyon",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:34.95223177Z",
+        "create_time": "2020-04-30T11:17:07.715527383Z",
         "tweets": null
     },
     {
         "name": "#RishiKapoor",
         "query": "%23RishiKapoor",
-        "tweet_volume": 434225,
-        "create_time": "2020-04-30T11:11:35.104556461Z",
+        "tweet_volume": 436297,
+        "create_time": "2020-04-30T11:17:07.861459035Z",
         "tweets": null
     },
     {
         "name": "#30Nisan",
         "query": "%2330Nisan",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:35.308102363Z",
+        "create_time": "2020-04-30T11:17:08.081864598Z",
         "tweets": null
     },
     {
         "name": "#guenaydin",
         "query": "%23guenaydin",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:35.753409596Z",
+        "create_time": "2020-04-30T11:17:08.511902613Z",
         "tweets": [
             {
                 "actual_create_time": "2020-04-29T07:18:34Z",
                 "create_time": "2020-04-30T09:04:39.063646529Z",
-                "favorite_count": 4472,
+                "favorite_count": 4476,
                 "retweet_count": 327,
                 "tweet_id": 1255396037533020165,
                 "user_id": 385539815,
@@ -1172,54 +1189,63 @@
         "name": "#InternationalJazzDay",
         "query": "%23InternationalJazzDay",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:35.960863951Z",
+        "create_time": "2020-04-30T11:17:08.647541992Z",
         "tweets": null
     },
     {
         "name": "#gecegece",
         "query": "%23gecegece",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:36.11283621Z",
+        "create_time": "2020-04-30T11:17:08.798799112Z",
         "tweets": null
     },
     {
         "name": "#UluslararasıCazGünü",
         "query": "%23Uluslararas%C4%B1CazG%C3%BCn%C3%BC",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:36.254258755Z",
-        "tweets": null
-    },
-    {
-        "name": "#SelahattinPaşalı",
-        "query": "%23SelahattinPa%C5%9Fal%C4%B1",
-        "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:36.410874399Z",
+        "create_time": "2020-04-30T11:17:08.9448745Z",
         "tweets": null
     },
     {
         "name": "#FatihAltaylı",
         "query": "%23FatihAltayl%C4%B1",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:36.603047086Z",
+        "create_time": "2020-04-30T11:17:09.134716926Z",
+        "tweets": null
+    },
+    {
+        "name": "#SelahattinPaşalı",
+        "query": "%23SelahattinPa%C5%9Fal%C4%B1",
+        "tweet_volume": 0,
+        "create_time": "2020-04-30T11:17:09.282005801Z",
         "tweets": null
     },
     {
         "name": "#igdas",
         "query": "%23igdas",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:36.732605105Z",
+        "create_time": "2020-04-30T11:17:09.410241005Z",
         "tweets": null
     },
     {
         "name": "#dardl",
         "query": "%23dardl",
         "tweet_volume": 0,
-        "create_time": "2020-04-30T11:11:36.939449074Z",
+        "create_time": "2020-04-30T11:17:09.613739808Z",
         "tweets": [
+            {
+                "actual_create_time": "2020-04-30T10:20:24Z",
+                "create_time": "2020-04-30T11:17:09.613686033Z",
+                "favorite_count": 1119,
+                "retweet_count": 103,
+                "tweet_id": 1255804185213313028,
+                "user_id": 967543587666825216,
+                "url": "https://twitter.com/967543587666825216/status/1255804185213313028"
+            },
             {
                 "actual_create_time": "2020-04-30T07:26:44Z",
                 "create_time": "2020-04-30T07:45:50.984442996Z",
-                "favorite_count": 1960,
+                "favorite_count": 1962,
                 "retweet_count": 128,
                 "tweet_id": 1255760480565628928,
                 "user_id": 967543587666825216,
@@ -1244,6 +1270,13 @@
                 "url": "https://twitter.com/967543587666825216/status/1254135430867488768"
             }
         ]
+    },
+    {
+        "name": "Düven",
+        "query": "D%C3%BCven",
+        "tweet_volume": 0,
+        "create_time": "2020-04-30T11:11:32.063280674Z",
+        "tweets": null
     },
     {
         "name": "#RezilsinCHP",
@@ -1800,13 +1833,6 @@
                 "url": "https://twitter.com/826705239629762560/status/1255490943635148811"
             }
         ]
-    },
-    {
-        "name": "#Bitcoin",
-        "query": "%23Bitcoin",
-        "tweet_volume": 79585,
-        "create_time": "2020-04-30T11:06:02.034838925Z",
-        "tweets": null
     },
     {
         "name": "#yks2020",
