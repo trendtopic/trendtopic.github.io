@@ -1,5 +1,14 @@
 [
   {
+    "actual_create_time": "2020-06-05T12:50:50Z",
+    "create_time": "2020-06-06T13:37:19.91572549Z",
+    "favorite_count": 29038,
+    "retweet_count": 1236,
+    "tweet_id": 1268888006271910000,
+    "user_id": 314225502,
+    "url": "https://twitter.com/314225502/status/1268888006271909888"
+  },
+  {
     "actual_create_time": "2020-06-05T21:51:24Z",
     "create_time": "2020-06-06T13:10:12.145243154Z",
     "favorite_count": 20489,
@@ -335,8 +344,8 @@
   {
     "actual_create_time": "2020-06-05T21:06:33Z",
     "create_time": "2020-06-06T06:09:46.80193513Z",
-    "favorite_count": 30209,
-    "retweet_count": 4253,
+    "favorite_count": 30284,
+    "retweet_count": 4261,
     "tweet_id": 1269012758202388500,
     "user_id": 2271763025,
     "url": "https://twitter.com/2271763025/status/1269012758202388482"
@@ -1789,14 +1798,5 @@
     "tweet_id": 1268567324426145800,
     "user_id": 1016198241417822200,
     "url": "https://twitter.com/1016198241417822208/status/1268567324426145793"
-  },
-  {
-    "actual_create_time": "2020-05-30T20:54:17Z",
-    "create_time": "2020-06-04T19:35:26.005621304Z",
-    "favorite_count": 33405,
-    "retweet_count": 787,
-    "tweet_id": 1266835344101605400,
-    "user_id": 1188555810747629600,
-    "url": "https://twitter.com/1188555810747629568/status/1266835344101605376"
   }
 ]
