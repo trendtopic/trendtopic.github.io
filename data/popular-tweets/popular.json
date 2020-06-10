@@ -1,9 +1,27 @@
 [
   {
+    "actual_create_time": "2020-06-10T06:03:00Z",
+    "create_time": "2020-06-10T12:01:14.306230012Z",
+    "favorite_count": 22243,
+    "retweet_count": 647,
+    "tweet_id": 1270597312889397200,
+    "user_id": 11525172,
+    "url": "https://twitter.com/11525172/status/1270597312889397249"
+  },
+  {
+    "actual_create_time": "2020-06-09T16:47:10Z",
+    "create_time": "2020-06-10T12:01:11.004418723Z",
+    "favorite_count": 22494,
+    "retweet_count": 530,
+    "tweet_id": 1270397034302967800,
+    "user_id": 2662933573,
+    "url": "https://twitter.com/2662933573/status/1270397034302967809"
+  },
+  {
     "actual_create_time": "2020-06-09T20:50:51Z",
     "create_time": "2020-06-10T11:52:48.48900913Z",
-    "favorite_count": 22530,
-    "retweet_count": 409,
+    "favorite_count": 22816,
+    "retweet_count": 413,
     "tweet_id": 1270458358412296200,
     "user_id": 1148240585289019400,
     "url": "https://twitter.com/1148240585289019393/status/1270458358412296200"
@@ -83,8 +101,8 @@
   {
     "actual_create_time": "2020-06-10T07:18:43Z",
     "create_time": "2020-06-10T11:07:55.986342228Z",
-    "favorite_count": 22484,
-    "retweet_count": 2638,
+    "favorite_count": 22817,
+    "retweet_count": 2671,
     "tweet_id": 1270616366844973000,
     "user_id": 284694804,
     "url": "https://twitter.com/284694804/status/1270616366844973057"
@@ -128,8 +146,8 @@
   {
     "actual_create_time": "2020-06-10T07:25:55Z",
     "create_time": "2020-06-10T09:14:17.31791824Z",
-    "favorite_count": 35949,
-    "retweet_count": 4080,
+    "favorite_count": 36398,
+    "retweet_count": 4133,
     "tweet_id": 1270618178008350700,
     "user_id": 182317200,
     "url": "https://twitter.com/182317200/status/1270618178008350720"
@@ -254,8 +272,8 @@
   {
     "actual_create_time": "2020-06-09T20:53:39Z",
     "create_time": "2020-06-10T02:39:23.271173724Z",
-    "favorite_count": 33981,
-    "retweet_count": 5878,
+    "favorite_count": 34068,
+    "retweet_count": 5890,
     "tweet_id": 1270459063168643000,
     "user_id": 2271763025,
     "url": "https://twitter.com/2271763025/status/1270459063168643073"
@@ -263,8 +281,8 @@
   {
     "actual_create_time": "2020-06-09T15:20:27Z",
     "create_time": "2020-06-10T02:25:55.772661196Z",
-    "favorite_count": 23022,
-    "retweet_count": 1737,
+    "favorite_count": 23044,
+    "retweet_count": 1739,
     "tweet_id": 1270375212442439700,
     "user_id": 11525172,
     "url": "https://twitter.com/11525172/status/1270375212442439680"
@@ -1046,8 +1064,8 @@
   {
     "actual_create_time": "2020-06-08T06:16:28Z",
     "create_time": "2020-06-09T01:51:27.998325451Z",
-    "favorite_count": 22014,
-    "retweet_count": 1941,
+    "favorite_count": 22020,
+    "retweet_count": 1942,
     "tweet_id": 1269875925782577200,
     "user_id": 15131778,
     "url": "https://twitter.com/15131778/status/1269875925782577162"
@@ -1154,8 +1172,8 @@
   {
     "actual_create_time": "2020-06-08T14:01:32Z",
     "create_time": "2020-06-08T23:22:28.784210998Z",
-    "favorite_count": 29724,
-    "retweet_count": 7204,
+    "favorite_count": 29738,
+    "retweet_count": 7208,
     "tweet_id": 1269992962206859300,
     "user_id": 237034746,
     "url": "https://twitter.com/237034746/status/1269992962206859264"
@@ -1780,23 +1798,5 @@
     "tweet_id": 1269402348016865300,
     "user_id": 326151727,
     "url": "https://twitter.com/326151727/status/1269402348016865280"
-  },
-  {
-    "actual_create_time": "2020-06-06T19:21:54Z",
-    "create_time": "2020-06-08T01:08:22.852069303Z",
-    "favorite_count": 107322,
-    "retweet_count": 3706,
-    "tweet_id": 1269348811811491800,
-    "user_id": 712611482358390800,
-    "url": "https://twitter.com/712611482358390784/status/1269348811811491844"
-  },
-  {
-    "actual_create_time": "2020-06-07T17:58:03Z",
-    "create_time": "2020-06-07T23:52:46.075917679Z",
-    "favorite_count": 23064,
-    "retweet_count": 2566,
-    "tweet_id": 1269690095457706000,
-    "user_id": 11525172,
-    "url": "https://twitter.com/11525172/status/1269690095457705985"
   }
 ]
